@@ -1,0 +1,157 @@
+ID	Title	Description	License
+bfo	Basic Formal Ontology	The upper level ontology upon which OBO Foundry ontologies are built.	http://creativecommons.org/licenses/by/4.0/	
+chebi	Chemical Entities of Biological Interest	A structured classification of molecular entities of biological interest focusing on 'small' chemical compounds.		
+doid	Human Disease Ontology	An ontology for describing the classification of human diseases organized by etiology.	https://creativecommons.org/publicdomain/zero/1.0/	
+go	Gene Ontology	An ontology for describing the function of genes and gene products	http://creativecommons.org/licenses/by/3.0/	
+obi	Ontology for Biomedical Investigations	An integrated ontology for the description of life-science and clinical investigations	http://creativecommons.org/licenses/by/3.0/	
+pato	Phenotypic quality	An ontology of phenotypic qualities (properties, attributes or characteristics)	http://creativecommons.org/licenses/by/3.0/	
+po	Plant Ontology	The Plant Ontology is a structured vocabulary and database resource that links plant anatomy, morphology and growth and development to plant genomics data.	https://creativecommons.org/licenses/by/4.0/	
+pr	PRotein Ontology (PRO)	An ontological representation of protein-related entities	http://creativecommons.org/licenses/by/4.0/	
+xao	Xenopus anatomy and development	Anatomy and development of the African clawed frog (<i>Xenopus laevis</i>).	http://creativecommons.org/licenses/by/3.0/	
+zfa	Zebrafish anatomy and development	A structured controlled vocabulary of the anatomy and development of the Zebrafish	http://creativecommons.org/licenses/by/3.0/	
+aeo	Anatomical Entity Ontology	AEO is an ontology of anatomical structures that expands CARO, the Common Anatomy Reference Ontology		
+agro	Agronomy Ontology	Ontology of agronomic practices, agronomic techniques, and agronomic variables used in agronomic experiments	https://creativecommons.org/licenses/by/4.0/	
+apo	Ascomycete phenotype ontology	A structured controlled vocabulary for the phenotypes of Ascomycete fungi		
+bcgo	Beta Cell Genomics Ontology	An application ontology built for beta cell genomics studies.	http://creativecommons.org/licenses/by/3.0/	
+bco	Biological Collections Ontology	An ontology to support the interoperability of biodiversity data, including data on museum collections, environmental/metagenomic samples, and ecological surveys.		
+bspo	Biological Spatial Ontology	An ontology for respresenting spatial concepts, anatomical axes, gradients, regions, planes, sides, and surfaces	http://creativecommons.org/licenses/by/3.0/	
+bto	BRENDA tissue / enzyme source	A structured controlled vocabulary for the source of an enzyme comprising tissues, cell lines, cell types and cell cultures.	https://creativecommons.org/licenses/by/4.0/	
+caro	Common Anatomy Reference Ontology	An upper level ontology to facilitate interoperability between existing anatomy ontologies for different species		
+cdao	Comparative Data Analysis Ontology	a formalization of concepts and relations relevant to evolutionary comparative analysis	https://creativecommons.org/publicdomain/zero/1.0/	
+ceph	Cephalopod Ontology	An anatomical and developmental ontology for cephalopods	http://creativecommons.org/licenses/by/3.0/	
+cheminf	Chemical Information Ontology	Includes terms for the descriptors commonly used in cheminformatics software applications and the algorithms which generate them.		
+chmo	Chemical Methods Ontology	CHMO, the chemical methods ontology, describes methods used to	http://creativecommons.org/licenses/by/4.0	
+cio	Confidence Information Ontology	An ontology to capture confidence information about annotations.		
+cl	Cell Ontology	The Cell Ontology is a structured controlled vocabulary for cell types in animals.	http://creativecommons.org/licenses/by/3.0/	
+clo	Cell Line Ontology	An ontology to standardize and integrate cell line information and to support computer-assisted reasoning.	http://creativecommons.org/licenses/by/3.0/	
+cmf	CranioMaxilloFacial ontology			
+cmo	Clinical measurement ontology	Morphological and physiological measurement records generated from clinical and model organism research and health programs.		
+cro	Contributor Role Ontology	A classification of the diverse roles performed in the work leading to a published research output in the sciences. Its purpose to provide transparency in contributions to scholarly published work, to enable improved systems of attribution, credit, and accountability.	https://creativecommons.org/licenses/by/2.0/	
+cteno	Ctenophore Ontology	An anatomical and developmental ontology for ctenophores (Comb Jellies)	http://creativecommons.org/licenses/by/3.0/	
+cvdo	Cardiovascular Disease Ontology	An ontology to describe entities related to cardiovascular diseases		
+ddanat	Dictyostelium discoideum anatomy	A structured controlled vocabulary of the anatomy of the slime-mold Dictyostelium discoideum	https://creativecommons.org/publicdomain/zero/1.0/	
+ddpheno	Dictyostelium discoideum phenotype	A structured controlled vocabulary of phenotypes of the slime-mould <i>Dictyostelium discoideum</i>.		
+dideo	Drug Interaction and Evidence Ontology	The Potential Drug-drug Interaction and Potential Drug-drug Interaction Evidence Ontology		
+dinto	The Drug-Drug Interactions Ontology	A formal represention for drug-drug interactions knowledge.	https://creativecommons.org/licenses/by/3.0/	
+dpo	Drosophila Phenotype Ontology	An ontology of commonly encountered and/or high level Drosophila phenotypes.	http://creativecommons.org/licenses/by/3.0/	
+dron	The Drug Ontology	An ontology to support comparative effectiveness researchers studying claims data.	http://creativecommons.org/licenses/by/3.0/	
+duo	The Data Use Ontology	DUO is an ontology which represent data use conditions.	http://creativecommons.org/licenses/by/3.0/	
+eco	Evidence ontology	An ontology for experimental and other evidence statements.	https://creativecommons.org/publicdomain/zero/1.0/	
+ecocore	An ontology of core ecological entities	An ontology to provide core semantics for ecological entities.	http://creativecommons.org/licenses/by/3.0/	
+ehdaa2	Human developmental anatomy, abstract	A structured controlled vocabulary of stage-specific anatomical structures of the developing human.		
+emapa	Mouse gross anatomy and development, timed	Abstract (i.e. non-stage specific) stage-specific anatomical structures of the mouse.		
+envo	Environment Ontology	Ontology of environmental features and habitats	http://creativecommons.org/licenses/by/3.0/	
+eo	Plant Environment Ontology	A structured, controlled vocabulary which describes the treatments, growing conditions, and/or study types used in plant biology experiments.	https://creativecommons.org/licenses/by/4.0/	
+epo	Epidemiology Ontology	An ontology designed to support the semantic annotation of epidemiology resources		
+ero	eagle-i resource ontology	An ontology of research resources such as instruments. protocols, reagents, animal models and biospecimens.		
+exo	Exposure ontology	Vocabularies for describing exposure data to inform understanding of environmental health.		
+fao	Fungal gross anatomy	A structured controlled vocabulary for the anatomy of fungi.		
+fbbi	Biological imaging methods	A structured controlled vocabulary of sample preparation, visualization and imaging methods used in biomedical research.		
+fbbt	Drosophila gross anatomy	An ontology representing the gross anatomy of Drosophila melanogaster.	http://creativecommons.org/licenses/by/3.0/	
+fbcv	FlyBase Controlled Vocabulary	A structured controlled vocabulary used for various aspects of annotation by FlyBase.	http://creativecommons.org/licenses/by/3.0/	
+fbdv	Drosophila development	A structured controlled vocabulary of the development of Drosophila melanogaster.	http://creativecommons.org/licenses/by/3.0/	
+fix	Physico-chemical methods and properties	An ontology of physico-chemical methods and properties.		
+flopo	Flora Phenotype Ontology	Traits and phenotypes of flowering plants occurring in digitized Floras	https://creativecommons.org/publicdomain/zero/1.0/	
+fma	Foundational Model of Anatomy (subset)	This is currently a slimmed down version of FMA		
+foodon	FOODON	A broadly scoped ontology representing entities which bear a “food role”.  It encompasses materials in natural ecosystems and food webs as well as human-centric categorization and handling of food.	http://creativecommons.org/licenses/by/3.0/	
+fypo	Fission Yeast Phenotype Ontology	FYPO is a formal ontology of phenotypes observed in fission yeast.	http://creativecommons.org/licenses/by/3.0/	
+gaz	Gazetteer	A gazetteer constructed on ontological principles		
+genepio	Genomic Epidemiology Ontology	The Genomic Epidemiology Ontology (GenEpiO) covers vocabulary necessary to identify, document and research foodborne pathogens and associated outbreaks.	http://creativecommons.org/licenses/by/3.0/	
+geno	Genotype Ontology	An integrated ontology for representing the genetic variations described in genotypes, and their causal relationships to phenotype and diseases.	https://creativecommons.org/licenses/by-sa/2.0/	
+geo	Geographical Entity Ontology	An ontology of geographical entities		
+hao	Hymenoptera Anatomy Ontology	A structured controlled vocabulary of the anatomy of the Hymenoptera (bees, wasps, and ants)		
+hom	Homology Ontology	This ontology represents concepts related to homology, as well as other concepts used to describe similarity and non-homology.	http://creativecommons.org/licenses/by/3.0/	
+hp	human phenotype ontology	A structured and controlled vocabulary for the phenotypic features encountered in human hereditary and other disease.		
+hsapdv	Human Developmental Stages	Life cycle stages for Human	http://creativecommons.org/licenses/by/3.0/	
+iao	Information Artifact Ontology	An ontology of information entities.	http://creativecommons.org/licenses/by/3.0/	
+ico	Informed Consent Ontology	An ontology of clinical informed consents	http://creativecommons.org/licenses/by/3.0/	
+ido	Infectious disease		http://creativecommons.org/licenses/by/3.0/	
+idomal	Malaria Ontology	An application ontology to cover all aspects of malaria as well as the intervention attempts to control it.		
+kisao	Kinetic Simulation Algorithm Ontology	A classification of algorithms available for the simulation of models in biology.	http://opensource.org/licenses/Artistic-2.0	
+ma	Mouse adult gross anatomy	A structured controlled vocabulary of the adult anatomy of the mouse (Mus).		
+mamo	Mathematical modeling ontology	The Mathematical Modelling Ontology (MAMO) is a classification of the types of mathematical models used mostly in the life sciences, their variables, relationships and other relevant features.	http://opensource.org/licenses/Artistic-2.0	
+mf	Mental Functioning Ontology	The Mental Functioning Ontology is an overarching ontology for all aspects of mental functioning.	http://creativecommons.org/licenses/by/3.0/	
+mfmo	Mammalian Feeding Muscle Ontology	The Mammalian Feeding Muscle Ontology is an antomy ontology for the muscles of the head and neck that participate in feeding, swallowing, and other oral-pharyngeal behaviors.	http://creativecommons.org/licenses/by/3.0/	
+mfoem	Emotion Ontology	An ontology of affective phenomena such as emotions, moods, appraisals and subjective feelings.	http://creativecommons.org/licenses/by/3.0/	
+mfomd	MFO Mental Disease Ontology	An ontology to describe and classify mental diseases such as schizophrenia, annotated with DSM-IV and ICD codes where applicable	http://creativecommons.org/licenses/by/3.0/	
+mi	Molecular interactions	A structured controlled vocabulary for the annotation of experiments concerned with protein-protein interactions.		
+miapa	MIAPA Ontology	An application ontology to formalize annotation of phylogenetic data.		
+micro	prokaryotic phenotypic and metabolic characters	An ontology of prokaryotic phenotypic and metabolic characters	http://creativecommons.org/licenses/by/2.0/	
+mirnao	microRNA Ontology	An application ontology for use with miRNA databases.		
+miro	Mosquito insecticide resistance	Application ontology for entities related to insecticide resistance in mosquitos		
+mmo	Measurement method ontology	A representation of the variety of methods used to make clinical and phenotype measurements. 		
+mmusdv	Mouse Developmental Stages	Life cycle stages for Mus Musculus	http://creativecommons.org/licenses/by/3.0/	
+mod	Protein modification	PSI-MOD is an ontology consisting of terms that describe protein chemical modifications		
+mondo	Monarch Disease Ontology	a semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology	http://creativecommons.org/licenses/by/3.0/	
+mop	Molecular Process Ontology	Processes at the molecular level		
+mp	Mammalian phenotype	Standard terms for annotating mammalian phenotypic data.		
+mpath	Mouse pathology	A structured controlled vocabulary of mutant and transgenic mouse pathology phenotypes	http://creativecommons.org/licenses/by/3.0/	
+mpio	Minimum PDDI Information Ontology	An ontology of minimum information regarding potential drug-drug interaction information.	http://creativecommons.org/licenses/by/4.0/	
+mro	MHC Restriction Ontology	An ontology for Major Histocompatibility Complex (MHC) restriction in experiments	https://creativecommons.org/licenses/by/3.0/	
+ms	Mass spectrometry ontology	A structured controlled vocabulary for the annotation of experiments concerned with proteomics mass spectrometry.	https://creativecommons.org/licenses/by/3.0/	
+nbo	Neuro Behavior Ontology		http://creativecommons.org/licenses/by/3.0/	
+ncbitaxon	NCBI organismal classification	An ontology representation of the NCBI organismal taxonomy		
+ncit	NCI Thesaurus OBO Edition	The NCI Thesaurus (NCIt) OBO Edition project aims to increase integration of the NCIt with OBO Library ontologies. NCIt is a reference terminology that includes broad coverage of the cancer domain, including cancer related diseases, findings and abnormalities. NCIt OBO Edition releases should be considered experimental.		
+ncro	Non-Coding RNA Ontology	An ontology for non-coding RNA, both of biological origin, and engineered.	http://creativecommons.org/licenses/by/4.0/	
+oae	Ontology of Adverse Events	A biomedical ontology in the domain of adverse events	http://creativecommons.org/licenses/by/3.0/	
+oarcs	Ontology of Arthropod Circulatory Systems	OArCS is an ontology describing the Arthropod ciruclatory system.	http://creativecommons.org/licenses/by/3.0/	
+oba	Ontology of Biological Attributes	A collection of biological attributes (traits) covering all kingdoms of life.		
+obcs	Ontology of Biological and Clinical Statistics	A biomedical ontology in the domain of biological and clinical statistics.	http://creativecommons.org/licenses/by/3.0/	
+obib	Ontology for Biobanking	An ontology built for annotation and modeling of biobank repository and biobanking administration	http://creativecommons.org/licenses/by/3.0/	
+ogg	The Ontology of Genes and Genomes	A formal ontology of genes and genomes of biological organisms.	http://creativecommons.org/licenses/by/3.0/	
+ogi	Ontology for genetic interval	An ontology that formalizes the genomic element by defining an upper class genetic interval		
+ogms	Ontology for General Medical Science	An ontology for representing treatment of disease and diagnosis and on carcinomas and other pathological entities	http://creativecommons.org/licenses/by/4.0/	
+ogsf	Ontology of Genetic Susceptibility Factor	An application ontology to represent genetic susceptibility to a specific disease, adverse event, or a pathological process.		
+ohd	The Oral Health and Disease Ontology	The Oral Health and Disease Ontology was created, initially, to represent the content of dental practice health records.	http://creativecommons.org/licenses/by/4.0/	
+ohmi	Ontology of Host-Microbiome Interactions	The Ontology of Host-Microbiome Interactions aims to ontologically represent and standardize various entities and relations related to microbiomes, microbiome host organisms (e.g., human and mouse), and the interactions between the hosts and microbiomes at different conditions.	http://creativecommons.org/licenses/by/4.0/	
+olatdv	Medaka Developmental Stages	Life cycle stages for Medaka	http://creativecommons.org/licenses/by/3.0/	
+omiabis	Ontologized MIABIS	An ontological version of MIABIS (Minimum Information About BIobank data Sharing)	http://creativecommons.org/licenses/by/3.0/	
+omit	Ontology for MIRNA Target	Ontology to establish data exchange standards and common data elements in the microRNA (miR) domain		
+omp	Ontology of Microbial Phenotypes	An ontology of phenotypes covering microbes	http://creativecommons.org/licenses/by/3.0/	
+omrse	Ontology of Medically Related Social Entities	This ontology covers the domain of social entities that are related to health care, such as demographic information and the roles of various individuals and organizations.		
+ontoneo	Obstetric and Neonatal Ontology	The Obstetric and Neonatal Ontology is a structured controlled vocabulary to provide a representation of the data from electronic health records (EHRs) involved in the care of the pregnant woman, and of her baby.	http://creativecommons.org/licenses/by/3.0/	
+oostt	Ontology of Organizational Structures of Trauma centers and Trauma systems	An ontology built for representating the organizational components of trauma centers and trauma systems.	http://creativecommons.org/licenses/by/4.0/	
+opl	Ontology for Parasite LifeCycle	A reference ontology for parasite life cycle stages.		
+ovae	Ontology of Vaccine Adverse Events	A biomedical ontology in the domain of vaccine adverse events.	http://creativecommons.org/licenses/by/3.0/	
+pco	Population and Community Ontology	An ontology about groups of interacting organisms such as populations and communities	http://creativecommons.org/publicdomain/zero/1.0/	
+pdro	The Prescription of Drugs Ontology	An ontology to describe entities related to prescription of drugs		
+pdumdv	Platynereis Developmental Stages	Life cycle stages for Platynereis dumerilii	http://creativecommons.org/licenses/by/3.0/	
+peco	Plant Experimental Conditions Ontology	A structured, controlled vocabulary which describes the treatments, growing conditions, and/or study types used in plant biology experiments.	https://creativecommons.org/licenses/by/4.0/	
+plana	planaria-ontology	planaria-ontology is an ontology for planarian anatomy and developmental stages of S.med	http://creativecommons.org/licenses/by/3.0/	
+poro	Porifera Ontology	An ontology covering the anatomy of the taxon Porifera (sponges)	http://creativecommons.org/licenses/by/3.0/	
+ppo	Plant Phenology Ontology	An ontology for describing the phenology of individual plants and populations of plants, and for integrating plant phenological data across sources and scales.	http://creativecommons.org/licenses/by/3.0/	
+pw	Pathway ontology	A controlled vocabulary for annotating gene products to pathways.		
+rex	Physico-chemical process	An ontology of physico-chemical processes, i.e. physico-chemical changes occurring in course of time.		
+rnao	RNA ontology			
+ro	Relations Ontology	Relationship types shared across multiple ontologies	http://creativecommons.org/licenses/by/3.0/	
+rs	Rat Strain Ontology	Ontology of rat strains		
+rxno	Name Reaction Ontology	Connects organic name reactions to their roles in an organic synthesis and to processes in MOP		
+sbo	Systems Biology	Terms commonly used in Systems Biology, and in particular in computational modeling.	http://opensource.org/licenses/Artistic-2.0	
+sep	Sample processing and separation techniques	A structured controlled vocabulary for the annotation of sample processing and separation techniques in scientific experiments.		
+sepio	Scientific Evidence and Provenance Information Ontology	An ontology for representing the provenance of scientific claims and the evidence that supports them.	https://creativecommons.org/licenses/by-sa/2.0/	
+sibo	Social Insect Behavior Ontology	Social Behavior in insects	http://creativecommons.org/licenses/by/3.0/	
+so	Sequence types and features	A structured controlled vocabulary for sequence annotation, for the exchange of annotation data and for the description of sequence objects in databases.		
+spd	Spider Ontology	An ontology for spider comparative biology including anatomical parts (e.g. leg, claw), behavior (e.g. courtship, combing) and products (i.g. silk, web, borrow).		
+stato	The Statistical Methods Ontology	STATO is a general-purpose STATistics Ontology. Its aim is to provide coverage for processes such as statistical tests, their conditions of application, and information needed or resulting from statistical methods, such as probability distributions, variables, spread and variation metrics. STATO also covers aspects of experimental design and description of plots and graphical representations commonly used to provide visual cues of data distribution or layout and to assist review of the results.	http://creativecommons.org/licenses/by/3.0/	
+swo	Software ontology			
+symp	Symptom Ontology	An ontology of disease symptoms, with symptoms encompasing perceived changes in function, sensations or appearance reported by a patient indicative of a disease.	https://creativecommons.org/publicdomain/zero/1.0/	
+tads	Tick gross anatomy	The anatomy of the Tick, <i>Families: Ixodidae, Argassidae</i>		
+taxrank	Taxonomic rank vocabulary	A vocabulary of taxonomic ranks (species, family, phylum, etc)	http://creativecommons.org/publicdomain/zero/1.0/	
+tgma	Mosquito gross anatomy	A structured controlled vocabulary of the anatomy of mosquitoes.		
+to	Plant Trait Ontology	A controlled vocabulary of describe phenotypic traits in plants.	https://creativecommons.org/licenses/by/4.0/	
+trans	Pathogen Transmission Ontology	An ontology representing the disease transmission process during which the pathogen is transmitted directly or indirectly from its natural reservoir, a susceptible host or source to a new host.	https://creativecommons.org/publicdomain/zero/1.0/	
+tto	Teleost taxonomy	An ontology covering the taxonomy of teleosts (bony fish)	http://creativecommons.org/publicdomain/zero/1.0/	
+uberon	Uberon multi-species anatomy ontology	An integrated cross-species anatomy ontology covering animals and bridging multiple species-specific ontologies	http://creativecommons.org/licenses/by/3.0/	
+uo	Units of measurement	Metrical units for use in conjunction with PATO	http://creativecommons.org/licenses/by/3.0/	
+upheno	Combined phenotype ontology			
+vario	Variation Ontology	Variation Ontology, VariO, is an ontology for standardized, systematic description of effects, consequences and mechanisms of variations.		
+vo	Vaccine Ontology	a biomedical ontology in the domain of vaccine and vaccination	http://creativecommons.org/licenses/by/3.0/	
+vt	Vertebrate trait	An ontology of traits covering vertebrates		
+vto	Vertebrate Taxonomy Ontology	Comprehensive hierarchy of extinct and extant vertebrate taxa.	http://creativecommons.org/publicdomain/zero/1.0/	
+wbbt	C. elegans gross anatomy	A structured controlled vocabulary of the anatomy of <i>Caenorhabditis elegans</i>.		
+wbls	C. elegans development	A structured controlled vocabulary of the development of <i>Caenorhabditis elegans</i>.		
+wbphenotype	C. elegans phenotype	A structured controlled vocabulary of <i>Caenorhabditis elegans</i> phenotypes		
+xco	Experimental condition ontology	Conditions under which physiological and morphological measurements are made both in the clinic and in studies involving humans or model organisms.		
+xl*				
+zeco	Zebrafish Experimental Conditions Ontology	Experimental conditions applied to zebrafish, developed to facilitate experiment condition annotation at ZFIN	http://creativecommons.org/licenses/by/3.0/	
+zfs	Zebrafish developmental stages	Developmental stages of the Zebrafish	http://creativecommons.org/licenses/by/3.0/	

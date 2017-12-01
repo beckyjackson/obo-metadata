@@ -1,0 +1,1564 @@
+[{:request-url "http://purl.obolibrary.org/obo/bfo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:02:31",
+  :location "archive/bfo/bfo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/bfo.owl"
+   "https://raw.githubusercontent.com/BFO-ontology/BFO/v2.0/bfo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/bfo.owl",
+   :version-iri "http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/chebi.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:06:45",
+  :location "archive/chebi/chebi.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/chebi.owl"
+   "ftp://ftp.ebi.ac.uk/pub/databases/chebi/ontology/chebi.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/chebi.owl",
+   :version-iri "http://purl.obolibrary.org/obo/chebi/157/chebi.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/doid.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:07:00",
+  :location "archive/doid/doid.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/doid.owl"
+   "https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/doid.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/doid/releases/2017-11-28/doid.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/go.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:07:37",
+  :location "archive/go/go.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/go.owl"
+   "http://snapshot.geneontology.org/ontology/go.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/go.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/go/releases/2017-11-29/go.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/obi.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:07:47",
+  :location "archive/obi/obi.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/obi.owl"
+   "https://raw.githubusercontent.com/obi-ontology/obi/v2017-11-07/obi.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/obi.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/obi/2017-11-07/obi.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/pato.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:07:54",
+  :location "archive/pato/pato.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/pato.owl"
+   "https://raw.githubusercontent.com/pato-ontology/pato/master/pato.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/pato.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/pato/releases/2017-07-10/pato.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/po.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:08:03",
+  :location "archive/po/po.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/po.owl"
+   "https://raw.githubusercontent.com/Planteome/plant-ontology/master/po.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/po.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/po/releases/2017-02-02/po.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/xao.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:09:57",
+  :location "archive/xao/xao.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/xao.owl"
+   "http://ontologies.berkeleybop.org/xao.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/xao.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/xao/releases/2017-01-13/xao.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/zfa.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:00",
+  :location "archive/zfa/zfa.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/zfa.owl"
+   "http://ontologies.berkeleybop.org/zfa.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/zfa.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/zfa/releases/2017-11-09/zfa.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/aeo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:02",
+  :location "archive/aeo/aeo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/aeo.owl"
+   "http://ontologies.berkeleybop.org/aeo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/aeo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/aeo/releases/2014-12-05/aeo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/agro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:08",
+  :location "archive/agro/agro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/agro.owl"
+   "https://raw.githubusercontent.com/AgriculturalSemantics/agro/master/agro.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/agro-edit.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/agro/releases/2016-06-03/agro.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/apo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:10",
+  :location "archive/apo/apo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/apo.owl"
+   "http://ontologies.berkeleybop.org/apo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/apo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/apo/releases/2017-09-25/apo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/bcgo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:18",
+  :location "archive/bcgo/bcgo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/bcgo.owl"
+   "https://raw.githubusercontent.com/obi-bcgo/bcgo/master/release/20150708/bcgo_merged_inferred.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/bcgo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/bcgo/2015-07-08/bcgo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/bco.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:25",
+  :location "archive/bco/bco.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/bco.owl"
+   "https://raw.githubusercontent.com/BiodiversityOntologies/bco/2016-12-14/bco.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/bco.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/bspo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:32",
+  :location "archive/bspo/bspo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/bspo.owl"
+   "https://raw.githubusercontent.com/obophenotype/biological-spatial-ontology/master/bspo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/bspo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/bspo/releases/2014-02-03/bspo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/caro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:45",
+  :location "archive/caro/caro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/caro.owl"
+   "https://raw.githubusercontent.com/obophenotype/caro/master/src/ontology/caro.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/caro/caro.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/caro/2.0/beta/caro.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/cdao.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:10:51",
+  :location "archive/cdao/cdao.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/cdao.owl"
+   "https://raw.githubusercontent.com/evoinfo/cdao/master/cdao.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/cdao.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/cdao/2013-02-01/cdao.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ceph.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:11:00",
+  :location "archive/ceph/ceph.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ceph.owl"
+   "https://raw.githubusercontent.com/obophenotype/cephalopod-ontology/master/ceph.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ceph.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ceph/releases/2016-01-12/ceph.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/cheminf.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:11:08",
+  :location "archive/cheminf/cheminf.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/cheminf.owl"
+   "https://raw.githubusercontent.com/egonw/semanticchemistry/master/ontology/cheminf.owl"],
+  :metadata
+  {:ontology-iri "http://semanticscience.org/ontology/cheminf.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/chmo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:11:16",
+  :location "archive/chmo/chmo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/chmo.owl"
+   "https://raw.githubusercontent.com/rsc-ontologies/rsc-cmo/master/chmo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/chmo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/chmo/releases/2014-11-20/chmo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/cio.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:11:22",
+  :location "archive/cio/cio.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/cio.owl"
+   "https://raw.githubusercontent.com/BgeeDB/confidence-information-ontology/master/src/ontology/cio.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/cio.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/cio/releases/2015-03-10/cio.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/cl.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:11:34",
+  :location "archive/cl/cl.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/cl.owl"
+   "https://raw.githubusercontent.com/obophenotype/cell-ontology/master/cl.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/cl.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/cl/releases/2017-07-29/cl.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/clo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:12:01",
+  :location "archive/clo/clo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/clo.owl"
+   "https://raw.githubusercontent.com/CLO-ontology/CLO/master/src/ontology/clo_merged.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/clo.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/cmo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:12:06",
+  :location "archive/cmo/cmo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/cmo.owl"
+   "http://ontologies.berkeleybop.org/cmo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/cmo.owl",
+   :version-iri "http://purl.obolibrary.org/obo/cmo/2.42/cmo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/cteno.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:12:16",
+  :location "archive/cteno/cteno.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/cteno.owl"
+   "https://raw.githubusercontent.com/obophenotype/ctenophore-ontology/master/cteno.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/cteno.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/cteno/releases/2016-10-19/cteno.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/cvdo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:12:25",
+  :location "archive/cvdo/cvdo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/cvdo.owl"
+   "https://raw.githubusercontent.com/OpenLHS/CVDO/master/cvdo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/cvdo",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ddanat.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:12:28",
+  :location "archive/ddanat/ddanat.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ddanat.owl"
+   "http://ontologies.berkeleybop.org/ddanat.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ddanat.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ddanat/releases/2017-11-30/ddanat.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ddpheno.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:12:30",
+  :location "archive/ddpheno/ddpheno.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ddpheno.owl"
+   "http://ontologies.berkeleybop.org/ddpheno.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ddpheno.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ddpheno/releases/2017-11-30/ddpheno.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/dideo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:12:38",
+  :location "archive/dideo/dideo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/dideo.owl"
+   "https://raw.githubusercontent.com/DIDEO/DIDEO/master/dideo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/dideo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/dideo/release/2017-11-17/dideo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/dron.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:14:03",
+  :location "archive/dron/dron.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/dron.owl"
+   "https://bitbucket.org/uamsdbmi/dron/raw/master/dron-full.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/dron.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/duo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:14:12",
+  :location "archive/duo/duo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/duo.owl"
+   "https://raw.githubusercontent.com/EBISPOT/DUO/master/duo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/duo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/duo/releases/2017-10-16/duo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/eco.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:14:19",
+  :location "archive/eco/eco.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/eco.owl"
+   "https://raw.githubusercontent.com/evidenceontology/evidenceontology/master/eco.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/eco.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/eco/releases/2017-11-03/eco.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ehdaa2.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:14:29",
+  :location "archive/ehdaa2/ehdaa2.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ehdaa2.owl"
+   "http://ontologies.berkeleybop.org/ehdaa2.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ehdaa2.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ehdaa2/releases/2013-07-04/ehdaa2.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/emapa.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:14:33",
+  :location "archive/emapa/emapa.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/emapa.owl"
+   "http://ontologies.berkeleybop.org/emapa.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/emapa.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/emapa/releases/2017-09-25/emapa.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/envo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:14:42",
+  :location "archive/envo/envo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/envo.owl"
+   "https://raw.githubusercontent.com/EnvironmentOntology/envo/master/envo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/envo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/envo/releases/2017-08-22/envo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ero.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:04",
+  :location "archive/ero/ero.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ero.owl"
+   "https://www.eagle-i.net/ero/latest/ero.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ero.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/exo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:06",
+  :location "archive/exo/exo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/exo.owl"
+   "http://ontologies.berkeleybop.org/exo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/exo.obo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/exo/releases/2017-09-24/exo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fao.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:12",
+  :location "archive/fao/fao.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fao.owl"
+   "https://raw.githubusercontent.com/obophenotype/fungal-anatomy-ontology/master/fao.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fao.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fao/releases/2016-08-24/fao.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fbbi.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:14",
+  :location "archive/fbbi/fbbi.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fbbi.owl"
+   "http://ontologies.berkeleybop.org/fbbi.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fbbi.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fbbi/releases/2017-09-25/fbbi.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fbbt.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:27",
+  :location "archive/fbbt/fbbt.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fbbt.owl"
+   "https://raw.githubusercontent.com/FlyBase/drosophila-anatomy-developmental-ontology/master/fbbt/releases/fbbt.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fbbt.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fbbt/2017-09-06/fbbt.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fbcv.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:35",
+  :location "archive/fbcv/fbcv.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fbcv.owl"
+   "https://raw.githubusercontent.com/FlyBase/flybase-controlled-vocabulary/master/releases/fbcv.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fbcv.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fbcv/2017-07-05/fbcv.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fbdv.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:42",
+  :location "archive/fbdv/fbdv.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fbdv.owl"
+   "https://raw.githubusercontent.com/FlyBase/drosophila-anatomy-developmental-ontology/master/fbdv/releases/fbdv.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fbdv.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fbdv/2016-10-14/fbdv.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fix.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:44",
+  :location "archive/fix/fix.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fix.owl"
+   "http://ontologies.berkeleybop.org/fix.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fix.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fix/releases/2017-11-30/fix.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/flopo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:15:58",
+  :location "archive/flopo/flopo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/flopo.owl"
+   "https://github.com/flora-phenotype-ontology/flopoontology/raw/master/ontology/flopo.owl"
+   "https://raw.githubusercontent.com/flora-phenotype-ontology/flopoontology/master/ontology/flopo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/flopo.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fma.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:16:13",
+  :location "archive/fma/fma.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fma.owl"
+   "http://ontologies.berkeleybop.org/fma.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fma.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fma/releases/2017-11-29/fma.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/foodon.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:16:24",
+  :location "archive/foodon/foodon.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/foodon.owl"
+   "https://raw.githubusercontent.com/FoodOntology/foodon/master/foodon.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/foodon.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/foodon/releases/2017-11-27/foodon.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/fypo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:16:42",
+  :location "archive/fypo/fypo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/fypo.owl"
+   "https://raw.githubusercontent.com/pombase/fypo/master/release/fypo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/fypo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/fypo/releases/2017-11-27/fypo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/genepio.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:18:45",
+  :location "archive/genepio/genepio.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/genepio.owl"
+   "https://raw.githubusercontent.com/GenEpiO/genepio/master/genepio.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/genepio.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/genepio/releases/2017-11-23/genepio.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/geno.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:18:52",
+  :location "archive/geno/geno.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/geno.owl"
+   "https://raw.githubusercontent.com/monarch-initiative/GENO-ontology/develop/src/ontology/geno.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/geno.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/geo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:00",
+  :location "archive/geo/geo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/geo.owl"
+   "https://raw.githubusercontent.com/ufbmi/geographical-entity-ontology/master/geo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/geo.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/hao.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:08",
+  :location "archive/hao/hao.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/hao.owl"
+   "https://raw.githubusercontent.com/hymao/hao/master/hao.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/hao.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/hom.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:10",
+  :location "archive/hom/hom.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/hom.owl"
+   "http://ontologies.berkeleybop.org/hom.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/hom.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/hom/releases/2015-01-07/hom.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/hp.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:28",
+  :location "archive/hp/hp.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/hp.owl"
+   "https://raw.githubusercontent.com/obophenotype/human-phenotype-ontology/master/hp.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/hp.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/hp/releases/2017-10-05/hp.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/hsapdv.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:30",
+  :location "archive/hsapdv/hsapdv.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/hsapdv.owl"
+   "http://ontologies.berkeleybop.org/hsapdv.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/hsapdv.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/hsapdv/releases/2017-10-22/hsapdv.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/iao.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:37",
+  :location "archive/iao/iao.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/iao.owl"
+   "https://raw.githubusercontent.com/information-artifact-ontology/IAO/master/releases/2017-03-24/iao-merged.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/iao.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ico.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:44",
+  :location "archive/ico/ico.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ico.owl"
+   "https://raw.githubusercontent.com/ICO-ontology/ICO/master/src/ontology/ico_merged.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ico.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ido.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:51",
+  :location "archive/ido/ido.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ido.owl"
+   "https://raw.githubusercontent.com/infectious-disease-ontology/infectious-disease-ontology/2017-11-03/ido.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ido.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ido/2017-11-03/ido.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/kisao.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:56",
+  :location "archive/kisao/kisao.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/kisao.owl"
+   "http://purl.oclc.org/obo/kisao.owl"
+   "http://svn.code.sf.net/p/kisao/code/tags/kisao-owl-latest/kisao_full.owl"],
+  :metadata
+  {:ontology-iri "http://www.biomodels.net/kisao/KISAO_FULL#",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ma.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:19:59",
+  :location "archive/ma/ma.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ma.owl"
+   "http://ontologies.berkeleybop.org/ma.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ma.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ma/releases/2017-02-07/ma.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mf.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:20:15",
+  :location "archive/mf/mf.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mf.owl"
+   "https://raw.githubusercontent.com/jannahastings/mental-functioning-ontology/master/ontology/MF.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/MF.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mfmo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:20:22",
+  :location "archive/mfmo/mfmo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mfmo.owl"
+   "https://raw.githubusercontent.com/RDruzinsky/feedontology/master/feed.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mfmo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mfmo/2013-11-16/mfmo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mfoem.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:20:29",
+  :location "archive/mfoem/mfoem.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mfoem.owl"
+   "https://raw.githubusercontent.com/jannahastings/emotion-ontology/master/ontology/MFOEM.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/MFOEM.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mfomd.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:20:36",
+  :location "archive/mfomd/mfomd.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mfomd.owl"
+   "https://raw.githubusercontent.com/jannahastings/mental-functioning-ontology/master/ontology/MFOMD.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/MFOMD.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mi.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:20:39",
+  :location "archive/mi/mi.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mi.owl"
+   "http://ontologies.berkeleybop.org/mi.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mi.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mi/releases/2017-11-29/mi.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/miapa.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:20:46",
+  :location "archive/miapa/miapa.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/miapa.owl"
+   "https://raw.githubusercontent.com/evoinfo/miapa/master/ontology/miapa.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/miapa.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/micro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:21:00",
+  :location "archive/micro/micro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/micro.owl"
+   "https://raw.githubusercontent.com/carrineblank/MicrO/master/MicrOandImportModules/MicrO.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/MicrO.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mmo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:21:06",
+  :location "archive/mmo/mmo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mmo.owl"
+   "http://ontologies.berkeleybop.org/mmo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mmo.owl",
+   :version-iri "http://purl.obolibrary.org/obo/mmo/2.28/mmo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mmusdv.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:21:07",
+  :location "archive/mmusdv/mmusdv.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mmusdv.owl"
+   "http://ontologies.berkeleybop.org/mmusdv.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mmusdv.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mmusdv/releases/2017-09-25/mmusdv.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mod.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:21:13",
+  :location "archive/mod/mod.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mod.owl"
+   "http://ontologies.berkeleybop.org/mod.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mod.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mod/releases/2017-11-30/mod.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mondo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:21:54",
+  :location "archive/mondo/mondo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mondo.owl"
+   "https://osf.io/bqpjm/download"
+   "https://files.osf.io/v1/resources/2qk53/providers/osfstorage/59e84168594d9002620e8b76?action=download&version=3&direct"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mondo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mondo/releases/2017-11-10/mondo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mop.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:22:03",
+  :location "archive/mop/mop.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mop.owl"
+   "https://raw.githubusercontent.com/rsc-ontologies/rxno/master/mop.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mop.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mop/releases/2014-09-03/mop.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mp.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:22:20",
+  :location "archive/mp/mp.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mp.owl"
+   "http://ontologies.berkeleybop.org/mp.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mp.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mp/releases/2017-11-28/mp.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mpath.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:22:22",
+  :location "archive/mpath/mpath.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mpath.owl"
+   "http://ontologies.berkeleybop.org/mpath.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mpath.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mpath/releases/2017-11-29/mpath.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mpio.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:22:29",
+  :location "archive/mpio/mpio.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mpio.owl"
+   "https://raw.githubusercontent.com/MPIO-Developers/MPIO/master/mpio.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mpio.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mpio/release/2017-11-01/mpio.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/mro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:22:37",
+  :location "archive/mro/mro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/mro.owl"
+   "https://raw.githubusercontent.com/IEDB/MRO/v2016-12-15/mro.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/mro.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/mro/2016-12-15/mro.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ms.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:22:40",
+  :location "archive/ms/ms.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ms.owl"
+   "http://ontologies.berkeleybop.org/ms.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ms.owl",
+   :version-iri "http://purl.obolibrary.org/obo/ms/4.0.18/ms.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/nbo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:22:43",
+  :location "archive/nbo/nbo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/nbo.owl"
+   "http://ontologies.berkeleybop.org/nbo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/behavior.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/behavior/2015-10-24/behavior.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ncit.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:26:37",
+  :location "archive/ncit/ncit.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ncit.owl"
+   "https://stars.renci.org/var/NCIt/ncit.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ncit.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ncit/releases/2017-09-28/ncit.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ncro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:26:49",
+  :location "archive/ncro/ncro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ncro.owl"
+   "https://raw.githubusercontent.com/OmniSearch/ncro/release-2015-12-10/build/ncro-all-in-one.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ncro.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/oae.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:26:55",
+  :location "archive/oae/oae.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/oae.owl"
+   "http://svn.code.sf.net/p/oae/code/trunk/src/ontology/oae.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/oae.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/oarcs.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:27:03",
+  :location "archive/oarcs/oarcs.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/oarcs.owl"
+   "https://raw.githubusercontent.com/aszool/oarcs/master/src/ontology/oarcs.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/oarcs.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/oba.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:27:17",
+  :location "archive/oba/oba.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/oba.owl"
+   "https://raw.githubusercontent.com/obophenotype/bio-attribute-ontology/master/oba.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/oba.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/obcs.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:27:25",
+  :location "archive/obcs/obcs.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/obcs.owl"
+   "https://raw.githubusercontent.com/obcs/obcs/master/release/20170429/obcs_merged_inferred.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/obcs.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/obcs/2017-04-29/obcs.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/obib.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:27:33",
+  :location "archive/obib/obib.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/obib.owl"
+   "https://raw.githubusercontent.com/biobanking/ontology/20171012/src/obib.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/obib.owl",
+   :version-iri "http://purl.obolibrary.org/obo/2017-10-12/obib.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ogg.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:28:18",
+  :location "archive/ogg/ogg.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ogg.owl"
+   "https://bitbucket.org/hegroup/ogg/raw/master/ogg-merged.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ogg.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ogms.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:28:35",
+  :location "archive/ogms/ogms.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ogms.owl"
+   "https://raw.githubusercontent.com/OGMS/ogms/master/src/ontology/ogms.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ogms.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ohd.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:28:50",
+  :location "archive/ohd/ohd.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ohd.owl"
+   "https://raw.githubusercontent.com/alanruttenberg/ohd-ontology/master/src/ontology/ohd-2016-06-27-merged-inferred.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ohd.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/2016-06-27/ohd-inferred.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ohmi.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:28:57",
+  :location "archive/ohmi/ohmi.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ohmi.owl"
+   "https://raw.githubusercontent.com/OHMI-ontology/OHMI/master/src/ohmi_merged.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ohmi.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/olatdv.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:28:59",
+  :location "archive/olatdv/olatdv.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/olatdv.owl"
+   "http://ontologies.berkeleybop.org/olatdv.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/olatdv.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/olatdv/releases/2017-09-25/olatdv.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/omiabis.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:29:07",
+  :location "archive/omiabis/omiabis.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/omiabis.owl"
+   "https://raw.githubusercontent.com/OMIABIS/omiabis-dev/master/BFO2%20omiabis/omiabis_merged.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/omiabis.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/omit.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:29:22",
+  :location "archive/omit/omit.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/omit.owl"
+   "http://raw.githubusercontent.com/OmniSearch/omit/master/src/ontology/omit.owl"
+   "https://raw.githubusercontent.com/OmniSearch/omit/master/src/ontology/omit.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/omit.owl",
+   :version-iri "http://purl.obolibrary.org/obo/omit/dev/omit.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/omp.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:29:26",
+  :location "archive/omp/omp.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/omp.owl"
+   "http://ontologies.berkeleybop.org/omp.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/omp.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/omp/releases/2017-11-03/omp.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/omrse.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:29:34",
+  :location "archive/omrse/omrse.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/omrse.owl"
+   "https://raw.githubusercontent.com/ufbmi/OMRSE/master/omrse/omrse.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/omrse.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ontoneo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:29:43",
+  :location "archive/ontoneo/ontoneo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ontoneo.owl"
+   "https://raw.githubusercontent.com/ontoneo-project/Ontoneo/master/ontoneo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ontoneo/ontoneo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ontoneo/releases/2017-03-04/ontoneo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/oostt.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:29:51",
+  :location "archive/oostt/oostt.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/oostt.owl"
+   "https://raw.githubusercontent.com/OOSTT/OOSTT/master/oostt.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/oostt.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/oostt/release/2017-09-12/oostt.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/opl.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:29:58",
+  :location "archive/opl/opl.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/opl.owl"
+   "https://raw.githubusercontent.com/OPL-ontology/OPL/master/release/20150609/opl_inferred.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/opl.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/opl/2015-06-09/opl.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ovae.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:06",
+  :location "archive/ovae/ovae.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ovae.owl"
+   "https://raw.githubusercontent.com/OVAE-Ontology/ovae/master/src/ontology/ovae_merged.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ovae.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/pco.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:14",
+  :location "archive/pco/pco.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/pco.owl"
+   "https://raw.githubusercontent.com/PopulationAndCommunityOntology/pco/master/pco.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/pco.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/pco/releases/2017-11-06/pco.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/pdro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:25",
+  :location "archive/pdro/pdro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/pdro.owl"
+   "https://raw.githubusercontent.com/OpenLHS/PDRO/master/PDRO.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/PDRO.owl",
+   :version-iri "http://purl.obolibrary.org/obo/PDRO.owl/16.11.28",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/pdumdv.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:27",
+  :location "archive/pdumdv/pdumdv.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/pdumdv.owl"
+   "http://ontologies.berkeleybop.org/pdumdv.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/pdumdv.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/pdumdv/releases/2017-09-24/pdumdv.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/peco.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:35",
+  :location "archive/peco/peco.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/peco.owl"
+   "https://raw.githubusercontent.com/Planteome/plant-experimental-conditions-ontology/master/peco.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/peco.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/peco/releases/2017-11-06/peco.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/plana.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:42",
+  :location "archive/plana/plana.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/plana.owl"
+   "https://raw.githubusercontent.com/obophenotype/planaria-ontology/master/plana.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo",
+   :version-iri
+   "http://purl.obolibrary.org/obo/plana/releases/2017-09-27/plana.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/poro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:50",
+  :location "archive/poro/poro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/poro.owl"
+   "https://raw.githubusercontent.com/obophenotype/porifera-ontology/master/poro.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/poro.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/poro/releases/2016-09-13/poro.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ppo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:30:58",
+  :location "archive/ppo/ppo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ppo.owl"
+   "https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/releases/2017-10-20/ppo.owl"],
+  :metadata
+  {:ontology-iri
+   "https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/ppo.owl",
+   :version-iri
+   "https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/releases/2017-10-20/ppo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/pw.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:01",
+  :location "archive/pw/pw.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/pw.owl"
+   "http://ontologies.berkeleybop.org/pw.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/pw.owl",
+   :version-iri "http://purl.obolibrary.org/obo/pw/7.42/pw.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/rex.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:03",
+  :location "archive/rex/rex.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/rex.owl"
+   "http://ontologies.berkeleybop.org/rex.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/rex.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/rex/releases/2017-11-19/rex.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/ro.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:14",
+  :location "archive/ro/ro.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/ro.owl"
+   "https://raw.githubusercontent.com/oborel/obo-relations/master/ro.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/ro.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/ro/releases/2017-10-02/ro.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/rs.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:17",
+  :location "archive/rs/rs.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/rs.owl"
+   "http://ontologies.berkeleybop.org/rs.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/rs.owl",
+   :version-iri "http://purl.obolibrary.org/obo/rs/6.50/rs.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/rxno.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:25",
+  :location "archive/rxno/rxno.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/rxno.owl"
+   "https://raw.githubusercontent.com/rsc-ontologies/rxno/master/rxno.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/rxno.obo.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/sbo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:28",
+  :location "archive/sbo/sbo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/sbo.owl"
+   "http://www.ebi.ac.uk/sbo/exports/Main/SBO_OWL.owl"],
+  :metadata {:ontology-iri "", :version-iri nil, :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/sibo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:39",
+  :location "archive/sibo/sibo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/sibo.owl"
+   "https://raw.githubusercontent.com/obophenotype/sibo/master/sibo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/sibo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/sibo/releases/2015-06-15/sibo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/so.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:48",
+  :location "archive/so/so.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/so.owl"
+   "https://raw.githubusercontent.com/The-Sequence-Ontology/SO-Ontologies/master/so.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/so.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/so/so-xp/releases/2015-11-24/so-xp.owl/so.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/spd.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:50",
+  :location "archive/spd/spd.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/spd.owl"
+   "http://ontologies.berkeleybop.org/spd.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/spd.owl",
+   :version-iri "http://purl.obolibrary.org/obo/spd/1.0/spd.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/stato.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:31:59",
+  :location "archive/stato/stato.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/stato.owl"
+   "https://raw.githubusercontent.com/ISA-tools/stato/dev/releases/latest_release/stato.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/stato.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/swo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:32:07",
+  :location "archive/swo/swo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/swo.owl"
+   "https://raw.githubusercontent.com/allysonlister/swo/master/release/swo_inferred.owl"],
+  :metadata
+  {:ontology-iri "http://www.ebi.ac.uk/swo/swo.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/symp.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:32:14",
+  :location "archive/symp/symp.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/symp.owl"
+   "https://raw.githubusercontent.com/DiseaseOntology/SymptomOntology/master/symp.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/symp.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/symp/releases/2013-06-03/symp.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/to.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:32:42",
+  :location "archive/to/to.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/to.owl"
+   "https://raw.githubusercontent.com/Planteome/plant-trait-ontology/master/to.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/to.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/to/releases/2017-11-09/to.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/trans.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:32:50",
+  :location "archive/trans/trans.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/trans.owl"
+   "https://raw.githubusercontent.com/DiseaseOntology/PathogenTransmissionOntology/master/src/ontology/trans.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/trans.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/trans/releases/2014-08-23/trans.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/tto.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:33:10",
+  :location "archive/tto/tto.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/tto.owl"
+   "https://raw.githubusercontent.com/phenoscape/teleost-taxonomy-ontology/master/tto.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/tto.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/uberon.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:33:21",
+  :location "archive/uberon/uberon.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/uberon.owl"
+   "http://ontologies.berkeleybop.org/uberon.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/uberon.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/uberon/releases/2017-10-28/uberon.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/uo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:33:24",
+  :location "archive/uo/uo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/uo.owl"
+   "http://ontologies.berkeleybop.org/uo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/uo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/uo/releases/2017-09-25/uo.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/upheno.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:33:30",
+  :location "archive/upheno/upheno.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/upheno.owl"
+   "http://ontologies.berkeleybop.org/upheno.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/upheno.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/vario.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:33:33",
+  :location "archive/vario/vario.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/vario.owl"
+   "http://ontologies.berkeleybop.org/vario.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/vario.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/vario/2015-08-20/vario.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/vo.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:33:44",
+  :location "archive/vo/vo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/vo.owl"
+   "http://svn.code.sf.net/p/vaccineontology/code/trunk/src/ontology/VO.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/vo.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/vt.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:33:53",
+  :location "archive/vt/vt.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/vt.owl"
+   "https://raw.githubusercontent.com/obophenotype/upheno/master/vt/vt.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/TEMP",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/vto.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:34:26",
+  :location "archive/vto/vto.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/vto.owl"
+   "http://vertebrate-taxonomy-ontology.s3-website-us-west-2.amazonaws.com/releases/vto.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/vto.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/vto/2016-10-17/vto.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/wbbt.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:34:32",
+  :location "archive/wbbt/wbbt.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/wbbt.owl"
+   "http://ontologies.berkeleybop.org/wbbt.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/wbbt.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/wbbt/2016-06-01/wbbt.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/wbls.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:34:35",
+  :location "archive/wbls/wbls.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/wbls.owl"
+   "http://ontologies.berkeleybop.org/wbls.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/wbls.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/wbls/releases/2017-11-16/wbls.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/wbphenotype.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:34:38",
+  :location "archive/wbphenotype/wbphenotype.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/wbphenotype.owl"
+   "http://ontologies.berkeleybop.org/wbphenotype.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/wbphenotype.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/wbphenotype/releases/2017-11-22/wbphenotype.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/xco.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:34:40",
+  :location "archive/xco/xco.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/xco.owl"
+   "http://ontologies.berkeleybop.org/xco.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/xco.owl",
+   :version-iri "http://purl.obolibrary.org/obo/xco/4.19/xco.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/zeco.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:34:50",
+  :location "archive/zeco/zeco.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/zeco.owl"
+   "https://raw.githubusercontent.com/ybradford/zebrafish-experimental-conditions-ontology/master/zeco.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/zeco.owl",
+   :version-iri nil,
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/zfs.owl",
+  :directory "archive",
+  :request-date "2017-11-30 12:34:52",
+  :location "archive/zfs/zfs.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/zfs.owl"
+   "http://ontologies.berkeleybop.org/zfs.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/zfs.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/zfs/releases/2017-09-24/zfs.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/taxrank.owl",
+  :directory "archive",
+  :request-date "2017-11-30 15:02:06",
+  :location "archive/taxrank/taxrank.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/taxrank.owl"
+   "https://raw.githubusercontent.com/phenoscape/taxrank/master/taxrank.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/taxrank.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/taxrank/releases/2016-04-15/taxrank.owl",
+   :imports {}}}
+ {:request-url "http://purl.obolibrary.org/obo/envo.owl",
+  :directory "archive",
+  :request-date "2017-12-01 13:57:06",
+  :location "archive/envo/envo.owl",
+  :redirect-path
+  ["http://purl.obolibrary.org/obo/envo.owl"
+   "https://raw.githubusercontent.com/EnvironmentOntology/envo/master/envo.owl"],
+  :metadata
+  {:ontology-iri "http://purl.obolibrary.org/obo/envo.owl",
+   :version-iri
+   "http://purl.obolibrary.org/obo/envo/releases/2017-08-22/envo.owl",
+   :imports {}}}]
