@@ -1,15 +1,3 @@
-# pull out a list of ontologies that don't use dc
-
-# format .md files into spreadsheets
-# title
-# desc
-# license
-
-# format annotations into spreadsheets
-# dc:title
-# dc:desc
-# dc:license
-
 import codecs
 from lxml import etree
 import os.path
@@ -35,10 +23,11 @@ def write(path, tsv_lines):
 		for line in tsv_lines:
 			f.write("%s\n" % line)
 
+# -----------------------------------------------------------
+
 with open(fname) as f:
 	ontologies = f.read().splitlines()
 
-err_log = []
 md_details = []
 xml_details = []
 
