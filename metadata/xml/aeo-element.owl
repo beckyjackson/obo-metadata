@@ -1,1 +1,26 @@
-<rdf:RDF xmlns='http://purl.obolibrary.org/obo/aeo.owl#' xml:base='http://purl.obolibrary.org/obo/aeo.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/aeo.owl'><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>04:07:2013 20:24</oboInOwl:date><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.1.1-beta7</oboInOwl:auto-generated-by><oboInOwl:typeref rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>anatomical_entity_ontology</oboInOwl:typeref><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>anatomical_entity_ontology</oboInOwl:default-namespace><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>jonathanbard</oboInOwl:saved-by><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>this version corrects the namespace and includes some flybase alt_IDs</rdfs:comment><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/aeo/releases/2014-12-05/aeo.owl'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns='http://purl.obolibrary.org/obo/aeo.owl#' xml:base='http://purl.obolibrary.org/obo/aeo.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/aeo.owl'>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+04:07:2013 20:24
+</oboInOwl:date>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.1.1-beta7
+</oboInOwl:auto-generated-by>
+<oboInOwl:typeref rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+anatomical_entity_ontology
+</oboInOwl:typeref>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+anatomical_entity_ontology
+</oboInOwl:default-namespace>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+jonathanbard
+</oboInOwl:saved-by>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+this version corrects the namespace and includes some flybase alt_IDs
+</rdfs:comment>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/aeo/releases/2014-12-05/aeo.owl'/>
+</owl:Ontology>
+</rdf:RDF>

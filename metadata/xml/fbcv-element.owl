@@ -1,1 +1,26 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:dpo='http://purl.obolibrary.org/obo/dpo.owl#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:Ontology1275387730635='http://www.semanticweb.org/ontologies/2010/5/Ontology1275387730635.owl:' xmlns='http://purl.obolibrary.org/obo/fbcv.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:FBcv='http://purl.obolibrary.org/obo/FBcv#' xmlns:fbcv='http://purl.obolibrary.org/obo/fbcv#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/fbcv.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/fbcv.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/fbcv/2017-07-05/fbcv.owl'/><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>temj2</oboInOwl:saved-by><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/dpo.owl>) VersionIRI(<http://purl.obolibrary.org/obo/fbcv/2017-07-05/dpo.owl>))) [Axioms: 4806 Logical Axioms: 930]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Imports terms from CHEBI - datestamp = 02:12:2011 01:47. And terms imported from http://purl.obolibrary.org/obo/go/releases/2017-06-29/go-simple.obo</rdfs:comment><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>FlyBase miscellaneous CV</oboInOwl:default-namespace><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.3.1</oboInOwl:auto-generated-by><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>05:07:2017 12:00</oboInOwl:date><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:dpo='http://purl.obolibrary.org/obo/dpo.owl#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:Ontology1275387730635='http://www.semanticweb.org/ontologies/2010/5/Ontology1275387730635.owl:' xmlns='http://purl.obolibrary.org/obo/fbcv.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:FBcv='http://purl.obolibrary.org/obo/FBcv#' xmlns:fbcv='http://purl.obolibrary.org/obo/fbcv#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/fbcv.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/fbcv.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/fbcv/2017-07-05/fbcv.owl'/>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+temj2
+</oboInOwl:saved-by>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/dpo.owl&gt;) VersionIRI(&lt;http://purl.obolibrary.org/obo/fbcv/2017-07-05/dpo.owl&gt;))) [Axioms: 4806 Logical Axioms: 930]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Imports terms from CHEBI - datestamp = 02:12:2011 01:47. And terms imported from http://purl.obolibrary.org/obo/go/releases/2017-06-29/go-simple.obo
+</rdfs:comment>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+FlyBase miscellaneous CV
+</oboInOwl:default-namespace>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.3.1
+</oboInOwl:auto-generated-by>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+05:07:2017 12:00
+</oboInOwl:date>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+</owl:Ontology>
+</rdf:RDF>

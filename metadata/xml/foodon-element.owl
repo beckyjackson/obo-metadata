@@ -1,1 +1,22 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/foodon.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:NCBITaxon='http://purl.obolibrary.org/obo/NCBITaxon#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:patterns='http://www.co-ode.org/patterns#' xml:base='http://purl.obolibrary.org/obo/foodon.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/foodon.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/foodon/releases/2017-11-27/foodon.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/gaz_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/uberon_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/obi_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/envo_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/geem_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ecocore_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ancestro_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/langual_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/pato_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ncbitaxon_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/chebi_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ro_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/po_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/metadata_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/eo_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/foodon_product_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/product_type_import.owl'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/foodon.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:NCBITaxon='http://purl.obolibrary.org/obo/NCBITaxon#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:patterns='http://www.co-ode.org/patterns#' xml:base='http://purl.obolibrary.org/obo/foodon.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/foodon.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/foodon/releases/2017-12-04/foodon.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/gaz_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/uberon_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/obi_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/envo_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/geem_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ecocore_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ancestro_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/langual_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/pato_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ncbitaxon_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/chebi_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/ro_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/po_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/metadata_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/eo_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/foodon_product_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/foodon/imports/product_type_import.owl'/>
+</owl:Ontology>
+</rdf:RDF>

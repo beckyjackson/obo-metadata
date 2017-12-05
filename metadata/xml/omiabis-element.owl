@@ -1,1 +1,46 @@
-<rdf:RDF xmlns='http://purl.obolibrary.org/obo/omiabis.owl#' xml:base='http://purl.obolibrary.org/obo/omiabis.owl' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/omiabis.owl'><dc:contributor>Loreana Norlin</dc:contributor><owl:versionInfo xml:lang='en'> 2014-05-28</owl:versionInfo><dc:contributor>Jan-Eric Litton</dc:contributor><rdf:comment xml:lang='en'>BFO 2.0 compatible version </rdf:comment><dc:source xml:lang='en'>MIABIS_v2_accepted</dc:source><dc:contributor>Roxana Merino-Martinez</dc:contributor><dc:contributor>Mikael Eriksson</dc:contributor><dc:title xml:lang='en'>Ontologized MIABIS</dc:title><dc:contributor>Sanela Kjellqvist</dc:contributor><dc:creator>Mathias Brochhausen</dc:creator><dc:contributor>William R. Hogan</dc:contributor><dc:creator>Alice Nzinga</dc:creator><dc:contributor>Martin N. Fransson</dc:contributor><dc:contributor>Maria Anderberg</dc:contributor></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns='http://purl.obolibrary.org/obo/omiabis.owl#' xml:base='http://purl.obolibrary.org/obo/omiabis.owl' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/omiabis.owl'>
+<dc:contributor>
+Loreana Norlin
+</dc:contributor>
+<owl:versionInfo xml:lang='en'>
+ 2014-05-28
+</owl:versionInfo>
+<dc:contributor>
+Jan-Eric Litton
+</dc:contributor>
+<rdf:comment xml:lang='en'>
+BFO 2.0 compatible version 
+</rdf:comment>
+<dc:source xml:lang='en'>
+MIABIS_v2_accepted
+</dc:source>
+<dc:contributor>
+Roxana Merino-Martinez
+</dc:contributor>
+<dc:contributor>
+Mikael Eriksson
+</dc:contributor>
+<dc:title xml:lang='en'>
+Ontologized MIABIS
+</dc:title>
+<dc:contributor>
+Sanela Kjellqvist
+</dc:contributor>
+<dc:creator>
+Mathias Brochhausen
+</dc:creator>
+<dc:contributor>
+William R. Hogan
+</dc:contributor>
+<dc:creator>
+Alice Nzinga
+</dc:creator>
+<dc:contributor>
+Martin N. Fransson
+</dc:contributor>
+<dc:contributor>
+Maria Anderberg
+</dc:contributor>
+</owl:Ontology>
+</rdf:RDF>

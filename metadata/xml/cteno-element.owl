@@ -1,1 +1,16 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:core='http://purl.obolibrary.org/obo/core#' xmlns='http://purl.obolibrary.org/obo/cteno.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:bspo='http://purl.obolibrary.org/obo/bspo#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:tax='http://purl.obolibrary.org/obo/tax#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/cteno.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/cteno.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/cteno/releases/2016-10-19/cteno.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/ro_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/bspo.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/chebi_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/taxonomy.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/uberon_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/bspo_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/cl_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/go_import.owl'/><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>CTENO is an ontology describing the anatomy and developmet of ctenophores.</rdfs:comment></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:core='http://purl.obolibrary.org/obo/core#' xmlns='http://purl.obolibrary.org/obo/cteno.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:bspo='http://purl.obolibrary.org/obo/bspo#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:tax='http://purl.obolibrary.org/obo/tax#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/cteno.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/cteno.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/cteno/releases/2016-10-19/cteno.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/ro_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/bspo.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/chebi_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/taxonomy.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/uberon_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/bspo_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/cl_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/cteno/imports/go_import.owl'/>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+CTENO is an ontology describing the anatomy and developmet of ctenophores.
+</rdfs:comment>
+</owl:Ontology>
+</rdf:RDF>

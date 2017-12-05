@@ -1,1 +1,12 @@
-<rdf:RDF xmlns='http://purl.obolibrary.org/obo/chmo.owl#' xml:base='http://purl.obolibrary.org/obo/chmo.owl' xmlns:chmo='http://purl.obolibrary.org/obo/chmo#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/chmo.owl'><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>batchelorc</oboInOwl:saved-by><chmo:has_format-version rdf:resource='http://purl.obolibrary.org/obo/chmo#1.2'/><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/chmo/releases/2014-11-20/chmo.owl'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns='http://purl.obolibrary.org/obo/chmo.owl#' xml:base='http://purl.obolibrary.org/obo/chmo.owl' xmlns:chmo='http://purl.obolibrary.org/obo/chmo#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/chmo.owl'>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+batchelorc
+</oboInOwl:saved-by>
+<chmo:has_format-version rdf:resource='http://purl.obolibrary.org/obo/chmo#1.2'/>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/chmo/releases/2014-11-20/chmo.owl'/>
+</owl:Ontology>
+</rdf:RDF>

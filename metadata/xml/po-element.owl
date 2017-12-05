@@ -1,1 +1,21 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:po='http://purl.obolibrary.org/obo/po#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/po.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/po.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/po.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/po/releases/2017-02-02/po.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/po/imports/ncbitaxon_import.owl'/><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>CL part_of NCBITaxon:33090</oboInOwl:treat-xrefs-as-genus-differentia><oboInOwl:treat-xrefs-as-is_a rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>CARO</oboInOwl:treat-xrefs-as-is_a><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>cooperl</oboInOwl:saved-by><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>plant_ontology</oboInOwl:default-namespace></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:po='http://purl.obolibrary.org/obo/po#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/po.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/po.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/po.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/po/releases/2017-02-02/po.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/po/imports/ncbitaxon_import.owl'/>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+CL part_of NCBITaxon:33090
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<oboInOwl:treat-xrefs-as-is_a rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+CARO
+</oboInOwl:treat-xrefs-as-is_a>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+cooperl
+</oboInOwl:saved-by>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+plant_ontology
+</oboInOwl:default-namespace>
+</owl:Ontology>
+</rdf:RDF>

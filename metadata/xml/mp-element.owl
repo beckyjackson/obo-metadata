@@ -1,1 +1,79 @@
-<rdf:RDF xmlns:mp-edit='http://purl.obolibrary.org/obo/mp-edit#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/mp.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:terms='http://purl.org/dc/terms/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/mp.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/mp.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/mp/releases/2017-11-28/mp.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/pr_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/extra.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/chebi_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/uberon_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/ro_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/pato_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/nbo_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/cl_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/mpath_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/doid_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/go_import.owl'/><dc:title rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>The Mammalian Phenotype Ontology</dc:title><terms:license rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>open source license under review, please inquire</terms:license><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>The Mammalian Phenotype Ontology Copyright © 2007, 2008, 2011, 2012, 2015 by The Jackson Laboratory.</rdfs:comment><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Janan T. Eppig</dc:creator><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>MPheno.ontology</oboInOwl:default-namespace><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Georgios V. Gkoutos</dc:contributor><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Paul Schofield</dc:contributor><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Alicia Valenzuela</dc:contributor><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Howard Dene</dc:contributor><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Melissa Berry</dc:contributor><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Michelle Knowlton</dc:contributor><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Susan Bello</dc:creator><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Anna Anagnostopolous</dc:contributor><oboInOwl:logical-definition-view-relation rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>has_part</oboInOwl:logical-definition-view-relation><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Nicole Vasilevsky</dc:contributor><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Carroll W. Goldsmith</dc:creator><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Christopher Mungall</dc:contributor><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Cynthia L. Smith</dc:creator><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/mp/mp-equivalent-axioms-subq.owl>))) [Axioms: 7389 Logical Axioms: 7251]</rdfs:comment><dc:language rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>English</dc:language><dc:description rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>The Mammalian Phenotype Ontology is being developed by Cynthia L. Smith, Susan M. Bello, Carroll W. Goldsmith and Janan T. Eppig, as part of the Mouse Genome Database (MGD) Project, Mouse Genome Informatics (MGI), The Jackson Laboratory, Bar Harbor, ME. This file contains pre-coordinated phenotype terms, definitions and synonyms that can be used to describe mammalian phenotypes. The ontology is represented as a directed acyclic graph (DAG). It organizes phenotype terms into major biological system headers such as nervous system and respiratory system.  This ontology is currently under development. Weekly updates are available at the Mouse Genome Informatics (MGI) ftp site (ftp://ftp.informatics.jax.org/pub/reports/index.html#pheno) as well as the OBO Foundry site (http://obofoundry.org/). Questions, comments and suggestions are welcome, and should be directed to pheno@jax.org, Susan.Bello@jax.org or to GitHub tracker (https://github.com/obophenotype/mammalian-phenotype-ontology/issues) MGD is funded by NIH/NHGRI grant HG000330.</dc:description></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:mp-edit='http://purl.obolibrary.org/obo/mp-edit#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/mp.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:terms='http://purl.org/dc/terms/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/mp.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/mp.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/mp/releases/2017-11-30/mp.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/chebi_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/cl_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/doid_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/extra.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/go_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/mpath_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/nbo_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/pato_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/pr_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/ro_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/upheno/imports/uberon_import.owl'/>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Alicia Valenzuela
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Anna Anagnostopolous
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Christopher Mungall
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Georgios V. Gkoutos
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Howard Dene
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Melissa Berry
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Michelle Knowlton
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Nicole Vasilevsky
+</dc:contributor>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Paul Schofield
+</dc:contributor>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Carroll W. Goldsmith
+</dc:creator>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Cynthia L. Smith
+</dc:creator>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Janan T. Eppig
+</dc:creator>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Susan Bello
+</dc:creator>
+<dc:description rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+The Mammalian Phenotype Ontology is being developed by Cynthia L. Smith, Susan M. Bello, Carroll W. Goldsmith and Janan T. Eppig, as part of the Mouse Genome Database (MGD) Project, Mouse Genome Informatics (MGI), The Jackson Laboratory, Bar Harbor, ME. This file contains pre-coordinated phenotype terms, definitions and synonyms that can be used to describe mammalian phenotypes. The ontology is represented as a directed acyclic graph (DAG). It organizes phenotype terms into major biological system headers such as nervous system and respiratory system.  This ontology is currently under development. Weekly updates are available at the Mouse Genome Informatics (MGI) ftp site (ftp://ftp.informatics.jax.org/pub/reports/index.html#pheno) as well as the OBO Foundry site (http://obofoundry.org/). Questions, comments and suggestions are welcome, and should be directed to pheno@jax.org, Susan.Bello@jax.org or to GitHub tracker (https://github.com/obophenotype/mammalian-phenotype-ontology/issues) MGD is funded by NIH/NHGRI grant HG000330.
+</dc:description>
+<dc:language rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+English
+</dc:language>
+<dc:title rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+The Mammalian Phenotype Ontology
+</dc:title>
+<terms:license rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+open source license under review, please inquire
+</terms:license>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+MPheno.ontology
+</oboInOwl:default-namespace>
+<oboInOwl:logical-definition-view-relation rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+has_part
+</oboInOwl:logical-definition-view-relation>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/mp/mp-equivalent-axioms-subq.owl&gt;))) [Axioms: 7389 Logical Axioms: 7251]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+The Mammalian Phenotype Ontology Copyright © 2007, 2008, 2011, 2012, 2015 by The Jackson Laboratory.
+</rdfs:comment>
+</owl:Ontology>
+</rdf:RDF>

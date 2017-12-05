@@ -1,1 +1,17 @@
-<rdf:RDF xmlns:mmusdv='http://purl.obolibrary.org/obo/mmusdv#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:B='http://purl.obolibrary.org/obo/mmusdv#EXACT%5B%5' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/mmusdv.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/mmusdv.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/mmusdv.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/mmusdv/releases/2017-09-25/mmusdv.owl'/><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>mouse_stages_ontology</oboInOwl:default-namespace><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>fbb</oboInOwl:saved-by><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>03:05:2013 17:41</oboInOwl:date></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:mmusdv='http://purl.obolibrary.org/obo/mmusdv#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:B='http://purl.obolibrary.org/obo/mmusdv#EXACT%5B%5' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/mmusdv.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/mmusdv.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/mmusdv.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/mmusdv/releases/2017-09-25/mmusdv.owl'/>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+mouse_stages_ontology
+</oboInOwl:default-namespace>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+fbb
+</oboInOwl:saved-by>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+03:05:2013 17:41
+</oboInOwl:date>
+</owl:Ontology>
+</rdf:RDF>

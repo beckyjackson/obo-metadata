@@ -1,1 +1,32 @@
-<rdf:RDF xmlns:chebi='http://purl.obolibrary.org/obo/chebi/' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:chebi3='http://purl.obolibrary.org/obo/chebi#3' xmlns:chebi4='http://purl.obolibrary.org/obo/chebi#1' xmlns:chebi2='http://purl.obolibrary.org/obo/chebi#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/chebi.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:chebi1='http://purl.obolibrary.org/obo/chebi#2' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/chebi.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/chebi.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/chebi/157/chebi.owl'/><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>ChEBI subsumes and replaces the Chemical Ontology first</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Author: ChEBI curation team</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>ChEBI Release version 157</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>developed by Michael Ashburner &amp; Pankaj Jaiswal.</rdfs:comment><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>chebi</oboInOwl:saved-by><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>chebi_ontology</oboInOwl:default-namespace><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>01:11:2017 03:02</oboInOwl:date><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>For any queries contact chebi-help@ebi.ac.uk</rdfs:comment></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:chebi='http://purl.obolibrary.org/obo/chebi/' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:chebi3='http://purl.obolibrary.org/obo/chebi#3' xmlns:chebi4='http://purl.obolibrary.org/obo/chebi#1' xmlns:chebi2='http://purl.obolibrary.org/obo/chebi#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/chebi.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:chebi1='http://purl.obolibrary.org/obo/chebi#2' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/chebi.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/chebi.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/chebi/158/chebi.owl'/>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+ChEBI subsumes and replaces the Chemical Ontology first
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Author: ChEBI curation team
+</rdfs:comment>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+01:12:2017 03:26
+</oboInOwl:date>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+developed by Michael Ashburner &amp; Pankaj Jaiswal.
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+ChEBI Release version 158
+</rdfs:comment>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+chebi
+</oboInOwl:saved-by>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+chebi_ontology
+</oboInOwl:default-namespace>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+For any queries contact chebi-help@ebi.ac.uk
+</rdfs:comment>
+</owl:Ontology>
+</rdf:RDF>

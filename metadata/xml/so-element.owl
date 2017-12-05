@@ -1,1 +1,20 @@
-<rdf:RDF xmlns='http://purl.obolibrary.org/obo/so.owl#' xml:base='http://purl.obolibrary.org/obo/so.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:so='http://purl.obolibrary.org/obo/so#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/so.owl'><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>20:11:2017 12:00</oboInOwl:date><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.3.1</oboInOwl:auto-generated-by><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>nicole</oboInOwl:saved-by><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>sequence</oboInOwl:default-namespace><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/so/so-xp/releases/2015-11-24/so-xp.owl/so.owl'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns='http://purl.obolibrary.org/obo/so.owl#' xml:base='http://purl.obolibrary.org/obo/so.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:so='http://purl.obolibrary.org/obo/so#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/so.owl'>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+20:11:2017 12:00
+</oboInOwl:date>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.3.1
+</oboInOwl:auto-generated-by>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+nicole
+</oboInOwl:saved-by>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+sequence
+</oboInOwl:default-namespace>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/so/so-xp/releases/2015-11-24/so-xp.owl/so.owl'/>
+</owl:Ontology>
+</rdf:RDF>

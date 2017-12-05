@@ -1,1 +1,40 @@
-<rdf:RDF xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/ohmi.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:doid='http://purl.obolibrary.org/obo/doid#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/ohmi.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/ohmi.owl'><dc:creator>Jie Zheng</dc:creator><dc:creator>Alexander Alekseyenko</dc:creator><dc:date xml:lang='en'>11-01-2017</dc:date><dc:creator xml:lang='en'>Haihe Wang</dc:creator><dc:creator>Jihad Obeid</dc:creator><dc:description xml:lang='en'>OHMI is a biomedical ontology that represents the entities and relations in the domain of host-microbiome interactions.</dc:description><dc:subject xml:lang='en'>OHMI: A biomedical ontology in the domain of host-microbiome interactions.</dc:subject><dc:title xml:lang='en'>OHMI: Ontology of Host-Microbiome Interactions</dc:title><dc:format xml:lang='en'>OWL-DL</dc:format><owl:versionInfo xml:lang='en'>Vision Release: 1.0.31</owl:versionInfo><dc:creator xml:lang='en'>Yongqun "Oliver" He (YH)</dc:creator><dc:creator xml:lang='en'>Yu Hong</dc:creator></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/ohmi.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:doid='http://purl.obolibrary.org/obo/doid#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/ohmi.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/ohmi.owl'>
+<dc:creator>
+Jie Zheng
+</dc:creator>
+<dc:creator>
+Alexander Alekseyenko
+</dc:creator>
+<dc:date xml:lang='en'>
+11-01-2017
+</dc:date>
+<dc:creator xml:lang='en'>
+Haihe Wang
+</dc:creator>
+<dc:creator>
+Jihad Obeid
+</dc:creator>
+<dc:description xml:lang='en'>
+OHMI is a biomedical ontology that represents the entities and relations in the domain of host-microbiome interactions.
+</dc:description>
+<dc:subject xml:lang='en'>
+OHMI: A biomedical ontology in the domain of host-microbiome interactions.
+</dc:subject>
+<dc:title xml:lang='en'>
+OHMI: Ontology of Host-Microbiome Interactions
+</dc:title>
+<dc:format xml:lang='en'>
+OWL-DL
+</dc:format>
+<owl:versionInfo xml:lang='en'>
+Vision Release: 1.0.31
+</owl:versionInfo>
+<dc:creator xml:lang='en'>
+Yongqun "Oliver" He (YH)
+</dc:creator>
+<dc:creator xml:lang='en'>
+Yu Hong
+</dc:creator>
+</owl:Ontology>
+</rdf:RDF>

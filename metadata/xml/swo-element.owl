@@ -1,1 +1,117 @@
-<rdf:RDF xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:swo='http://www.ebi.ac.uk/swo/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://www.ebi.ac.uk/swo/swo.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:doap='http://usefulinc.com/ns/doap#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:edamontology1='http://edamontology.org/' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:edamontology='http://edamontology.org#' xml:base='http://www.ebi.ac.uk/swo/swo.owl'><owl:Ontology rdf:about='http://www.ebi.ac.uk/swo/swo.owl'><oboInOwl:hasSubset>operations "EDAM operations"</oboInOwl:hasSubset><dc:creator>Nandini Badarinarayan</dc:creator><obo:remark>EDAM editors: Jon Ison, Matus Kalas, and Herve Menager. Contributors: Inge Jonassen, Dan Bolser, Hamish McWilliam, Mahmut Uludag, James Malone, Rodrigo Lopez, Steve Pettifer, and Peter Rice. Contibutions from these projects: EMBRACE, ELIXIR, and BioMedBridges (EU); EMBOSS (BBSRC, UK); eSysbio, FUGE Bioinformatics Platform, and ELIXIR.NO/Norwegian Bioinformatics Platform (Research Council of Norway). See http://edamontology.org for documentation and licence.</obo:remark><oboInOwl:hasSubset>concept_properties "EDAM concept properties"</oboInOwl:hasSubset><dc:creator>Andy Brown</dc:creator><dc:creator>James Malone</dc:creator><oboInOwl:hasSubset>edam "EDAM"</oboInOwl:hasSubset><obo:remark>EDAM is an ontology of well established, familiar concepts that are prevalent within bioinformatics, including types of data and data identifiers, data formats, operations and topics. EDAM is a simple ontology - essentially a set of terms with synonyms and definitions - organised into an intuitive hierarchy for convenient use by curators, software developers and end-users. EDAM is suitable for large-scale semantic annotations and categorisation of diverse bioinformatics resources.  EDAM is also suitable for diverse application including for example within workbenches and workflow-management systems, software distributions, and resource registries.</obo:remark><dc:format>application/rdf+xml</dc:format><oboInOwl:hasSubset>relations "EDAM relations"</oboInOwl:hasSubset><obo:idspace>EDAM_topic http://edamontology.org/topic_ "EDAM topics"</obo:idspace><dc:creator>Jon Ison</dc:creator><dc:creator>Matúš Kalaš</dc:creator><doap:Version>1.16</doap:Version><dc:creator>Duncan Hull</dc:creator><oboInOwl:hasSubset>data "EDAM types of data"</oboInOwl:hasSubset><owl:versionInfo>0.4</owl:versionInfo><dc:title>Bioinformatics operations, data types, formats, identifiers and topics</dc:title><oboInOwl:savedBy>Jon Ison, Matus Kalas, Hervé Ménager</oboInOwl:savedBy><obo:default-relationship-id-prefix>EDAM</obo:default-relationship-id-prefix><owl:versionInfo>1.6</owl:versionInfo><oboInOwl:hasSubset>formats "EDAM data formats"</oboInOwl:hasSubset><dc:creator>Robert Stevens</dc:creator><dc:creator>Hervé Ménager</dc:creator><rdfs:comment>SWO and EDAM include some terms released under CC-BY license from the OBO Foundry. We acknowledge those with the use of the OBO PURLs were appropriate.  Some of the definitions have been modified from the original; for the latest original definition please visit the URI. </rdfs:comment><rdfs:comment>The Software Ontology (SWO) is a resource for describing software tools, their types, tasks, versions, provenance and associated data. It contains SWO-specific classes and axioms as well as imported information from a variety of sources including OBI, IAO, BFO and EDAM. Please note that EDAM is imported as a whole and as such, some comments in the ontology header directly relate to EDAM only.</rdfs:comment><obo:idspace>EDAM http://edamontology.org/ "EDAM relations and concept properties"</obo:idspace><oboInOwl:hasSubset>topics "EDAM topics"</oboInOwl:hasSubset><dc:creator>Helen Parkinson</dc:creator><obo:date>31.10.2016 23:58 GMT</obo:date><obo:idspace>EDAM_operation http://edamontology.org/operation_ "EDAM operations"</obo:idspace><dc:creator>Allyson Lister</dc:creator><rdfs:comment>Date of release: 1 February 2017</rdfs:comment><edamontology1:next_id>3791</edamontology1:next_id><oboInOwl:hasSubset>identifiers "EDAM types of identifiers"</oboInOwl:hasSubset><obo:idspace>EDAM_format http://edamontology.org/format_ "EDAM data formats"</obo:idspace><obo:idspace>EDAM_data http://edamontology.org/data_ "EDAM types of data"</obo:idspace><rdfs:isDefinedBy rdf:resource='http://edamontology.org/EDAM.owl'/><foaf:page rdf:resource='http://edamontology.org/page'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:swo='http://www.ebi.ac.uk/swo/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://www.ebi.ac.uk/swo/swo.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:doap='http://usefulinc.com/ns/doap#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:edamontology1='http://edamontology.org/' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:edamontology='http://edamontology.org#' xml:base='http://www.ebi.ac.uk/swo/swo.owl'>
+<owl:Ontology rdf:about='http://www.ebi.ac.uk/swo/swo.owl'>
+<oboInOwl:hasSubset>
+operations "EDAM operations"
+</oboInOwl:hasSubset>
+<dc:creator>
+Nandini Badarinarayan
+</dc:creator>
+<obo:remark>
+EDAM editors: Jon Ison, Matus Kalas, and Herve Menager. Contributors: Inge Jonassen, Dan Bolser, Hamish McWilliam, Mahmut Uludag, James Malone, Rodrigo Lopez, Steve Pettifer, and Peter Rice. Contibutions from these projects: EMBRACE, ELIXIR, and BioMedBridges (EU); EMBOSS (BBSRC, UK); eSysbio, FUGE Bioinformatics Platform, and ELIXIR.NO/Norwegian Bioinformatics Platform (Research Council of Norway). See http://edamontology.org for documentation and licence.
+</obo:remark>
+<oboInOwl:hasSubset>
+concept_properties "EDAM concept properties"
+</oboInOwl:hasSubset>
+<dc:creator>
+Andy Brown
+</dc:creator>
+<dc:creator>
+James Malone
+</dc:creator>
+<oboInOwl:hasSubset>
+edam "EDAM"
+</oboInOwl:hasSubset>
+<obo:remark>
+EDAM is an ontology of well established, familiar concepts that are prevalent within bioinformatics, including types of data and data identifiers, data formats, operations and topics. EDAM is a simple ontology - essentially a set of terms with synonyms and definitions - organised into an intuitive hierarchy for convenient use by curators, software developers and end-users. EDAM is suitable for large-scale semantic annotations and categorisation of diverse bioinformatics resources.  EDAM is also suitable for diverse application including for example within workbenches and workflow-management systems, software distributions, and resource registries.
+</obo:remark>
+<dc:format>
+application/rdf+xml
+</dc:format>
+<oboInOwl:hasSubset>
+relations "EDAM relations"
+</oboInOwl:hasSubset>
+<obo:idspace>
+EDAM_topic http://edamontology.org/topic_ "EDAM topics"
+</obo:idspace>
+<dc:creator>
+Jon Ison
+</dc:creator>
+<dc:creator>
+Matúš Kalaš
+</dc:creator>
+<doap:Version>
+1.16
+</doap:Version>
+<dc:creator>
+Duncan Hull
+</dc:creator>
+<oboInOwl:hasSubset>
+data "EDAM types of data"
+</oboInOwl:hasSubset>
+<owl:versionInfo>
+0.4
+</owl:versionInfo>
+<dc:title>
+Bioinformatics operations, data types, formats, identifiers and topics
+</dc:title>
+<oboInOwl:savedBy>
+Jon Ison, Matus Kalas, Hervé Ménager
+</oboInOwl:savedBy>
+<obo:default-relationship-id-prefix>
+EDAM
+</obo:default-relationship-id-prefix>
+<owl:versionInfo>
+1.6
+</owl:versionInfo>
+<oboInOwl:hasSubset>
+formats "EDAM data formats"
+</oboInOwl:hasSubset>
+<dc:creator>
+Robert Stevens
+</dc:creator>
+<dc:creator>
+Hervé Ménager
+</dc:creator>
+<rdfs:comment>
+SWO and EDAM include some terms released under CC-BY license from the OBO Foundry. We acknowledge those with the use of the OBO PURLs were appropriate.  Some of the definitions have been modified from the original; for the latest original definition please visit the URI. 
+</rdfs:comment>
+<rdfs:comment>
+The Software Ontology (SWO) is a resource for describing software tools, their types, tasks, versions, provenance and associated data. It contains SWO-specific classes and axioms as well as imported information from a variety of sources including OBI, IAO, BFO and EDAM. Please note that EDAM is imported as a whole and as such, some comments in the ontology header directly relate to EDAM only.
+</rdfs:comment>
+<obo:idspace>
+EDAM http://edamontology.org/ "EDAM relations and concept properties"
+</obo:idspace>
+<oboInOwl:hasSubset>
+topics "EDAM topics"
+</oboInOwl:hasSubset>
+<dc:creator>
+Helen Parkinson
+</dc:creator>
+<obo:date>
+31.10.2016 23:58 GMT
+</obo:date>
+<obo:idspace>
+EDAM_operation http://edamontology.org/operation_ "EDAM operations"
+</obo:idspace>
+<dc:creator>
+Allyson Lister
+</dc:creator>
+<rdfs:comment>
+Date of release: 1 February 2017
+</rdfs:comment>
+<edamontology1:next_id>
+3791
+</edamontology1:next_id>
+<oboInOwl:hasSubset>
+identifiers "EDAM types of identifiers"
+</oboInOwl:hasSubset>
+<obo:idspace>
+EDAM_format http://edamontology.org/format_ "EDAM data formats"
+</obo:idspace>
+<obo:idspace>
+EDAM_data http://edamontology.org/data_ "EDAM types of data"
+</obo:idspace>
+<rdfs:isDefinedBy rdf:resource='http://edamontology.org/EDAM.owl'/>
+<foaf:page rdf:resource='http://edamontology.org/page'/>
+</owl:Ontology>
+</rdf:RDF>

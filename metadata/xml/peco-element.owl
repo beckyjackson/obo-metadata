@@ -1,1 +1,20 @@
-<rdf:RDF xmlns='http://purl.obolibrary.org/obo/peco.owl#' xml:base='http://purl.obolibrary.org/obo/peco.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/peco.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/peco/releases/2017-11-06/peco.owl'/><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.3.1</oboInOwl:auto-generated-by><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>plant_experimental_conditions_ontology</oboInOwl:default-namespace><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>12:10:2015 15:21</oboInOwl:date><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>cooperl</oboInOwl:saved-by></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns='http://purl.obolibrary.org/obo/peco.owl#' xml:base='http://purl.obolibrary.org/obo/peco.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/peco.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/peco/releases/2017-11-06/peco.owl'/>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.3.1
+</oboInOwl:auto-generated-by>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+plant_experimental_conditions_ontology
+</oboInOwl:default-namespace>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+12:10:2015 15:21
+</oboInOwl:date>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+cooperl
+</oboInOwl:saved-by>
+</owl:Ontology>
+</rdf:RDF>

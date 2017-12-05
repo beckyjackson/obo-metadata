@@ -1,1 +1,35 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/zfa.owl#' xmlns:zfa='http://purl.obolibrary.org/obo/zfa#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/zfa.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/zfa.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/zfa/releases/2017-11-09/zfa.owl'/><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>TAO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Ceri</oboInOwl:saved-by><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>SVN version: $Revision: 1.100$</rdfs:comment><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>CL part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>zebrafish_anatomical_ontology</oboInOwl:default-namespace><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>VSAO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>27:10:2017 17:11</oboInOwl:date><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.3-beta5</oboInOwl:auto-generated-by><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>CARO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/zfa.owl#' xmlns:zfa='http://purl.obolibrary.org/obo/zfa#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/zfa.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/zfa.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/zfa/releases/2017-11-09/zfa.owl'/>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+TAO part_of NCBITaxon:7955
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Ceri
+</oboInOwl:saved-by>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+SVN version: $Revision: 1.100$
+</rdfs:comment>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+CL part_of NCBITaxon:7955
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+zebrafish_anatomical_ontology
+</oboInOwl:default-namespace>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+VSAO part_of NCBITaxon:7955
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+27:10:2017 17:11
+</oboInOwl:date>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.3-beta5
+</oboInOwl:auto-generated-by>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+CARO part_of NCBITaxon:7955
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+</owl:Ontology>
+</rdf:RDF>

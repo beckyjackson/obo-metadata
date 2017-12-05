@@ -1,1 +1,35 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/dron.owl/' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/dron.owl/'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/dron.owl'><owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-ingredient.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-hand.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-ndc.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-chebi.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-pro.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-upper.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-rxnorm.owl'/><dc:creator>Eric Joseph</dc:creator><rdfs:comment>An ontology of drugs.</rdfs:comment><dc:creator>William Hogan</dc:creator><dc:license xml:lang='en'>https://creativecommons.org/licenses/by/3.0/</dc:license><rdfs:comment xml:lang='en'>When citing DrOn, use the permanent URL of the ontology: http://purl.obolibrary.org/obo/dron.owl.  When referencing a specific component of the DrOn, such as a class, object property, annotation property, or individual, use the Uniform Resource Identifier (URI) of that component.</rdfs:comment><dc:creator>Mathias Brochhausen</dc:creator><dc:creator>Josh Hanna</dc:creator><rdfs:comment>DrOn contains content developed by the National Library of Medicine in RxNorm.  In creating DrOn, we have used RxNorm content only with SAB = RXNORM.</rdfs:comment></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/dron.owl/' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/dron.owl/'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/dron.owl'>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-ingredient.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-hand.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-ndc.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-chebi.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-pro.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-upper.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/dron/dron-rxnorm.owl'/>
+<dc:creator>
+Eric Joseph
+</dc:creator>
+<rdfs:comment>
+An ontology of drugs.
+</rdfs:comment>
+<dc:creator>
+William Hogan
+</dc:creator>
+<dc:license xml:lang='en'>
+https://creativecommons.org/licenses/by/3.0/
+</dc:license>
+<rdfs:comment xml:lang='en'>
+When citing DrOn, use the permanent URL of the ontology: http://purl.obolibrary.org/obo/dron.owl.  When referencing a specific component of the DrOn, such as a class, object property, annotation property, or individual, use the Uniform Resource Identifier (URI) of that component.
+</rdfs:comment>
+<dc:creator>
+Mathias Brochhausen
+</dc:creator>
+<dc:creator>
+Josh Hanna
+</dc:creator>
+<rdfs:comment>
+DrOn contains content developed by the National Library of Medicine in RxNorm.  In creating DrOn, we have used RxNorm content only with SAB = RXNORM.
+</rdfs:comment>
+</owl:Ontology>
+</rdf:RDF>

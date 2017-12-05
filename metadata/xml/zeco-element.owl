@@ -1,1 +1,19 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='/http://purl.obolibrary.org/obo/zeco.owl#' xmlns:ubprop='http://purl.obolibrary.org/obo/ubprop#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='/http://purl.obolibrary.org/obo/zeco.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/zeco.owl'><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.3</oboInOwl:auto-generated-by><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>08:11:2017 13:15</oboInOwl:date><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>zebrafish_experimental_conditions_ontology</oboInOwl:default-namespace><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>ybradford</oboInOwl:saved-by></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='/http://purl.obolibrary.org/obo/zeco.owl#' xmlns:ubprop='http://purl.obolibrary.org/obo/ubprop#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='/http://purl.obolibrary.org/obo/zeco.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/zeco.owl'>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.3
+</oboInOwl:auto-generated-by>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+08:11:2017 13:15
+</oboInOwl:date>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+zebrafish_experimental_conditions_ontology
+</oboInOwl:default-namespace>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+ybradford
+</oboInOwl:saved-by>
+</owl:Ontology>
+</rdf:RDF>

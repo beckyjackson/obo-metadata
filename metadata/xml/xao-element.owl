@@ -1,1 +1,47 @@
-<rdf:RDF xmlns:xao='http://purl.obolibrary.org/obo/xao#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/xao.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/xao.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/xao.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/xao/releases/2017-01-13/xao.owl'/><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>13:01:2017 15:39</oboInOwl:date><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>CL part_of NCBITaxon:8353</oboInOwl:treat-xrefs-as-genus-differentia><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Version: 5.0</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Citation for XAO v1 by Xenbase: Segerdell E, Bowes JB, Pollet N, Vize PD; BMC Dev Biol 2008 8:92; PMID:18817563.</rdfs:comment><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>xenopus_anatomy</oboInOwl:default-namespace><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>GO part_of NCBITaxon:8353</oboInOwl:treat-xrefs-as-genus-differentia><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.3.1</oboInOwl:auto-generated-by><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Supported by NIH R01 HD045776 and NICHD P41 HD064556.</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Citation for XAO v3 by Xenbase: Segerdell E, Ponferrada VG, James-Zorn C, Burns KA, Fortriede JD, Dahdul WM, Vize PD, Zorn AM; J Biomed Semantics 2013 4(1):31; PMID:24139024.</rdfs:comment><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>CARO part_of NCBITaxon:8353</oboInOwl:treat-xrefs-as-genus-differentia><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>eriksegerdell</oboInOwl:saved-by><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:NamespaceIdRule rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>* XAO:$sequence(7,5000,9999999)$</oboInOwl:NamespaceIdRule><oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>UBERON part_of NCBITaxon:8353</oboInOwl:treat-xrefs-as-genus-differentia></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xao='http://purl.obolibrary.org/obo/xao#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/xao.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/xao.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/xao.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/xao/releases/2017-01-13/xao.owl'/>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+13:01:2017 15:39
+</oboInOwl:date>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+CL part_of NCBITaxon:8353
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Version: 5.0
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Citation for XAO v1 by Xenbase: Segerdell E, Bowes JB, Pollet N, Vize PD; BMC Dev Biol 2008 8:92; PMID:18817563.
+</rdfs:comment>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+xenopus_anatomy
+</oboInOwl:default-namespace>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+GO part_of NCBITaxon:8353
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.3.1
+</oboInOwl:auto-generated-by>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Supported by NIH R01 HD045776 and NICHD P41 HD064556.
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Citation for XAO v3 by Xenbase: Segerdell E, Ponferrada VG, James-Zorn C, Burns KA, Fortriede JD, Dahdul WM, Vize PD, Zorn AM; J Biomed Semantics 2013 4(1):31; PMID:24139024.
+</rdfs:comment>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+CARO part_of NCBITaxon:8353
+</oboInOwl:treat-xrefs-as-genus-differentia>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+eriksegerdell
+</oboInOwl:saved-by>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:NamespaceIdRule rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+* XAO:$sequence(7,5000,9999999)$
+</oboInOwl:NamespaceIdRule>
+<oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+UBERON part_of NCBITaxon:8353
+</oboInOwl:treat-xrefs-as-genus-differentia>
+</owl:Ontology>
+</rdf:RDF>

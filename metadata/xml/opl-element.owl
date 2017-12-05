@@ -1,1 +1,44 @@
-<rdf:RDF xmlns:swrl='http://www.w3.org/2003/11/swrl#' xmlns:ro='http://www.obofoundry.org/ro/ro.owl#' xmlns:xsp='http://www.owl-ontologies.com/2005/08/07/xsp.owl#' xmlns:iao='http://purl.obolibrary.org/obo/iao/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:roproposed='http://purl.org/obo/owl/OBO_REL#' xmlns='http://purl.obolibrary.org/obo/opl.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:BTO='http://purl.org/obo/owl/BTO#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:snap='http://www.ifomis.org/bfo/1.1/snap#' xmlns:span='http://www.ifomis.org/bfo/1.1/span#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:p1='http://purl.obolibrary.org/obo/iao/dev/ontology-metadata.owl#' xmlns:swrlb='http://www.w3.org/2003/11/swrlb#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:bfo='http://www.ifomis.org/bfo/1.1#' xmlns:obi='http://purl.obolibrary.org/obo/obi/' xml:base='http://purl.obolibrary.org/obo/opl.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/opl.owl'><owl:versionInfo rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>2015-06-09</owl:versionInfo><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/opl/2015-06-09/opl.owl'/><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Anna Protasio</dc:creator><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Chris J. Janse</dc:creator><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Chris Stockert</dc:creator><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Flora Logan</dc:creator><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Jie Zheng</dc:creator><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Kitsos Louis</dc:contributor><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Priti Parikh</dc:creator><dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Satya Sahoo</dc:contributor><dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Shahid M. Khan</dc:creator><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>The Parasite Life Cycle ontology was developed as part of the NIH-funded "Semantics and Services enabled Problem Solving Environment for Tcruzi" project (Grant#1R01HL087795-01A1). The Kno.e.sis center, Computer Science and Engineering Department, Wright State University, Center for Bioinformatics, Department of Genetics, University of Pennsylvania School of Medicine, USA and the Tarleton Lab, Center for Tropical and Emerging Global Diseases (CTEGD), University of Georgia, USA collaborated to create this ontology. Resource page: http://knoesis.wright.edu/trykipedia</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>This file is based on checkout of our SVN repository revision $Revision: 27 $</rdfs:comment><protege:defaultLanguage rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>en</protege:defaultLanguage></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:swrl='http://www.w3.org/2003/11/swrl#' xmlns:ro='http://www.obofoundry.org/ro/ro.owl#' xmlns:xsp='http://www.owl-ontologies.com/2005/08/07/xsp.owl#' xmlns:iao='http://purl.obolibrary.org/obo/iao/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:roproposed='http://purl.org/obo/owl/OBO_REL#' xmlns='http://purl.obolibrary.org/obo/opl.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:BTO='http://purl.org/obo/owl/BTO#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:snap='http://www.ifomis.org/bfo/1.1/snap#' xmlns:span='http://www.ifomis.org/bfo/1.1/span#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:p1='http://purl.obolibrary.org/obo/iao/dev/ontology-metadata.owl#' xmlns:swrlb='http://www.w3.org/2003/11/swrlb#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:bfo='http://www.ifomis.org/bfo/1.1#' xmlns:obi='http://purl.obolibrary.org/obo/obi/' xml:base='http://purl.obolibrary.org/obo/opl.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/opl.owl'>
+<owl:versionInfo rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+2015-06-09
+</owl:versionInfo>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/opl/2015-06-09/opl.owl'/>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Anna Protasio
+</dc:creator>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Chris J. Janse
+</dc:creator>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Chris Stockert
+</dc:creator>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Flora Logan
+</dc:creator>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Jie Zheng
+</dc:creator>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Kitsos Louis
+</dc:contributor>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Priti Parikh
+</dc:creator>
+<dc:contributor rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Satya Sahoo
+</dc:contributor>
+<dc:creator rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Shahid M. Khan
+</dc:creator>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+The Parasite Life Cycle ontology was developed as part of the NIH-funded "Semantics and Services enabled Problem Solving Environment for Tcruzi" project (Grant#1R01HL087795-01A1). The Kno.e.sis center, Computer Science and Engineering Department, Wright State University, Center for Bioinformatics, Department of Genetics, University of Pennsylvania School of Medicine, USA and the Tarleton Lab, Center for Tropical and Emerging Global Diseases (CTEGD), University of Georgia, USA collaborated to create this ontology. Resource page: http://knoesis.wright.edu/trykipedia
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+This file is based on checkout of our SVN repository revision $Revision: 27 $
+</rdfs:comment>
+<protege:defaultLanguage rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+en
+</protege:defaultLanguage>
+</owl:Ontology>
+</rdf:RDF>

@@ -1,1 +1,23 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/omp.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:omp='http://purl.obolibrary.org/obo/omp#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/omp.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/omp.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/omp/releases/2017-11-03/omp.owl'/><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>23:10:2017 18:01</oboInOwl:date><oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>OBO-Edit 2.3.1</oboInOwl:auto-generated-by><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>select is_a closure</rdfs:comment><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Tianyizhou</oboInOwl:saved-by><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>microbial_phenotype</oboInOwl:default-namespace></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/omp.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:omp='http://purl.obolibrary.org/obo/omp#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/omp.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/omp.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/omp/releases/2017-12-01/omp.owl'/>
+<oboInOwl:auto-generated-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+OBO-Edit 2.3.1
+</oboInOwl:auto-generated-by>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+30:11:2017 10:59
+</oboInOwl:date>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+microbial_phenotype
+</oboInOwl:default-namespace>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<oboInOwl:saved-by rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+dsiegele
+</oboInOwl:saved-by>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+select is_a closure
+</rdfs:comment>
+</owl:Ontology>
+</rdf:RDF>

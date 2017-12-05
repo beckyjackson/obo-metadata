@@ -1,1 +1,11 @@
-<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:exo='http://purl.obolibrary.org/obo/exo.obo#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/exo.obo.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:oboInOWL='http://www.geneontology.org/formats/oboInOwl#http://www.geneontology.org/formats/oboInOWL#' xml:base='http://purl.obolibrary.org/obo/exo.obo.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/exo.obo.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/exo/releases/2017-09-24/exo.owl'/><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><obo:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>source</obo:default-namespace></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:exo='http://purl.obolibrary.org/obo/exo.obo#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/exo.obo.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:oboInOWL='http://www.geneontology.org/formats/oboInOwl#http://www.geneontology.org/formats/oboInOWL#' xml:base='http://purl.obolibrary.org/obo/exo.obo.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/exo.obo.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/exo/releases/2017-09-24/exo.owl'/>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<obo:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+source
+</obo:default-namespace>
+</owl:Ontology>
+</rdf:RDF>

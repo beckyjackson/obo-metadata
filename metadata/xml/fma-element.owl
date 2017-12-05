@@ -1,1 +1,17 @@
-<rdf:RDF xmlns='http://purl.obolibrary.org/obo/fma.owl#' xml:base='http://purl.obolibrary.org/obo/fma.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/fma.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/fma/releases/2017-11-29/fma.owl'/><oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>24:07:2008 15:29</oboInOwl:date><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>fma</oboInOwl:default-namespace><oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>1.2</oboInOwl:hasOBOFormatVersion><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>this is an ALPHA version of the FMA2.0 in obo. Conversion based on http://www.bioontology.org/wiki/index.php/FMAInOwl</rdfs:comment></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns='http://purl.obolibrary.org/obo/fma.owl#' xml:base='http://purl.obolibrary.org/obo/fma.owl' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/fma.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/fma/releases/2017-12-03/fma.owl'/>
+<oboInOwl:date rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+24:07:2008 15:29
+</oboInOwl:date>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+fma
+</oboInOwl:default-namespace>
+<oboInOwl:hasOBOFormatVersion rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+1.2
+</oboInOwl:hasOBOFormatVersion>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+this is an ALPHA version of the FMA2.0 in obo. Conversion based on http://www.bioontology.org/wiki/index.php/FMAInOwl
+</rdfs:comment>
+</owl:Ontology>
+</rdf:RDF>

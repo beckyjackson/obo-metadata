@@ -1,1 +1,33 @@
-<rdf:RDF xmlns:swrl='http://www.w3.org/2003/11/swrl#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:cito='http://purl.org/spar/cito/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/pco.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:swrla='http://swrl.stanford.edu/ontologies/3.3/swrla.owl#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:swrlb='http://www.w3.org/2003/11/swrlb#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/pco.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/pco.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/pco/releases/2017-11-06/pco.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/iao/2015-02-23/ontology-metadata.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/bfo_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/ncbitaxon_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/pato_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/envo_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/go_import.owl'/><rdfs:comment>The Population and Community Ontology (PCO) is licensed under a Creative Commons zero (CC0) license - http://creativecommons.org/publicdomain/zero/1.0/. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. We ask that anyone using this ontology follow the standards of the scientific ontology community by re-using ontology identifiers whenever possible and properly citing the ontology and its creators.</rdfs:comment><dc:contributor>http://orcid.org/0000-0002-4366-3088</dc:contributor><dc:creator>Ramona Walls</dc:creator><dc:creator>David Osumi-Sutherland</dc:creator><dc:creator>Jie Zheng</dc:creator><dc:creator>Pier Luigi Buttigieg</dc:creator><dc:license>http://creativecommons.org/publicdomain/zero/1.0/</dc:license></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:swrl='http://www.w3.org/2003/11/swrl#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:cito='http://purl.org/spar/cito/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/pco.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:swrla='http://swrl.stanford.edu/ontologies/3.3/swrla.owl#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:swrlb='http://www.w3.org/2003/11/swrlb#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/pco.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/pco.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/pco/releases/2017-11-06/pco.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/ro/releases/2017-07-19/ro.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/iao/2015-02-23/ontology-metadata.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/bfo_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/ncbitaxon_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/pato_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/envo_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/pco/imports/go_import.owl'/>
+<rdfs:comment>
+The Population and Community Ontology (PCO) is licensed under a Creative Commons zero (CC0) license - http://creativecommons.org/publicdomain/zero/1.0/. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. We ask that anyone using this ontology follow the standards of the scientific ontology community by re-using ontology identifiers whenever possible and properly citing the ontology and its creators.
+</rdfs:comment>
+<dc:contributor>
+http://orcid.org/0000-0002-4366-3088
+</dc:contributor>
+<dc:creator>
+Ramona Walls
+</dc:creator>
+<dc:creator>
+David Osumi-Sutherland
+</dc:creator>
+<dc:creator>
+Jie Zheng
+</dc:creator>
+<dc:creator>
+Pier Luigi Buttigieg
+</dc:creator>
+<dc:license>
+http://creativecommons.org/publicdomain/zero/1.0/
+</dc:license>
+</owl:Ontology>
+</rdf:RDF>

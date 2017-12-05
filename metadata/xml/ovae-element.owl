@@ -1,1 +1,31 @@
-<rdf:RDF xmlns:uberon='http://purl.obolibrary.org/obo/uberon#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:core='http://purl.obolibrary.org/obo/uberon/core#' xmlns='http://purl.obolibrary.org/obo/ovae.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:external_byhand='http://purl.obolibrary.org/obo/vo/external/external_byhand.owl#' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:ncbitaxon='http://purl.obolibrary.org/obo/ncbitaxon#' xmlns:core2='http://purl.obolibrary.org/obo/core#' xml:base='http://purl.obolibrary.org/obo/ovae.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/ovae.owl'><dc:date xml:lang='en'>04-11-2016</dc:date><dc:subject xml:lang='en'>A biomedical ontology in the area of vaccine adverse events.</dc:subject><dc:creator xml:lang='en'>Erica Marcos</dc:creator><dc:creator xml:lang='en'>Jiangan Xie</dc:creator><dc:description xml:lang='en'>OVAE is a biomedical ontology in the area of vaccine adverse events. OVAE is an extension of the community-based Ontology of Adverse Events (OAE). </dc:description><dc:title xml:lang='en'>OVAE: Ontology of Vaccine Adverse Events</dc:title><dc:format xml:lang='en'>OWL-DL</dc:format><owl:versionInfo xml:lang='en'>Vision Release: 1.0.34</owl:versionInfo><dc:creator xml:lang='en'>Yongqun "Oliver" He (YH)</dc:creator></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:uberon='http://purl.obolibrary.org/obo/uberon#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:core='http://purl.obolibrary.org/obo/uberon/core#' xmlns='http://purl.obolibrary.org/obo/ovae.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:external_byhand='http://purl.obolibrary.org/obo/vo/external/external_byhand.owl#' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:ncbitaxon='http://purl.obolibrary.org/obo/ncbitaxon#' xmlns:core2='http://purl.obolibrary.org/obo/core#' xml:base='http://purl.obolibrary.org/obo/ovae.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/ovae.owl'>
+<dc:date xml:lang='en'>
+04-11-2016
+</dc:date>
+<dc:subject xml:lang='en'>
+A biomedical ontology in the area of vaccine adverse events.
+</dc:subject>
+<dc:creator xml:lang='en'>
+Erica Marcos
+</dc:creator>
+<dc:creator xml:lang='en'>
+Jiangan Xie
+</dc:creator>
+<dc:description xml:lang='en'>
+OVAE is a biomedical ontology in the area of vaccine adverse events. OVAE is an extension of the community-based Ontology of Adverse Events (OAE). 
+</dc:description>
+<dc:title xml:lang='en'>
+OVAE: Ontology of Vaccine Adverse Events
+</dc:title>
+<dc:format xml:lang='en'>
+OWL-DL
+</dc:format>
+<owl:versionInfo xml:lang='en'>
+Vision Release: 1.0.34
+</owl:versionInfo>
+<dc:creator xml:lang='en'>
+Yongqun "Oliver" He (YH)
+</dc:creator>
+</owl:Ontology>
+</rdf:RDF>

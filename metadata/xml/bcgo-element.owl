@@ -1,1 +1,27 @@
-<rdf:RDF xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/bcgo_merged.owl#' xmlns:ubprop='http://purl.obolibrary.org/obo/ubprop#' xmlns:pato='http://purl.obolibrary.org/obo/pato#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/bcgo_merged.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/bcgo.owl'><rdfs:comment>This file is based on checkout of our SVN repository revision $Revision: 204$</rdfs:comment><foaf:homepage>https://github.com/obi-bcgo/bcgo</foaf:homepage><dc:creator>Chris Stoeckert</dc:creator><dc:contributor>Emily Greenfest-Allen</dc:contributor><rdfs:comment>The ontology is built based on OBI release 2015-04-13</rdfs:comment><dc:contributor>Elisabetta Manduchi</dc:contributor><dc:creator>Jie Zheng</dc:creator><dc:license rdf:resource='http://creativecommons.org/licenses/by/3.0/'/><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/bcgo/2015-07-08/bcgo.owl'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/bcgo_merged.owl#' xmlns:ubprop='http://purl.obolibrary.org/obo/ubprop#' xmlns:pato='http://purl.obolibrary.org/obo/pato#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/bcgo_merged.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/bcgo.owl'>
+<rdfs:comment>
+This file is based on checkout of our SVN repository revision $Revision: 204$
+</rdfs:comment>
+<foaf:homepage>
+https://github.com/obi-bcgo/bcgo
+</foaf:homepage>
+<dc:creator>
+Chris Stoeckert
+</dc:creator>
+<dc:contributor>
+Emily Greenfest-Allen
+</dc:contributor>
+<rdfs:comment>
+The ontology is built based on OBI release 2015-04-13
+</rdfs:comment>
+<dc:contributor>
+Elisabetta Manduchi
+</dc:contributor>
+<dc:creator>
+Jie Zheng
+</dc:creator>
+<dc:license rdf:resource='http://creativecommons.org/licenses/by/3.0/'/>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/bcgo/2015-07-08/bcgo.owl'/>
+</owl:Ontology>
+</rdf:RDF>

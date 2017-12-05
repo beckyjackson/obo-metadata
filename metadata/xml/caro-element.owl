@@ -1,1 +1,16 @@
-<rdf:RDF xmlns='http://purl.obolibrary.org/obo/caro/caro.owl#' xml:base='http://purl.obolibrary.org/obo/caro/caro.owl' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/caro/caro.owl'><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/caro/2.0/beta/caro.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/ro/core.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/ro_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/pco_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/pato_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/go_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/chebi_import.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/bfo_classes_only.owl'/><owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/caro_bridge.owl'/><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Based on CARO 1.0, with modifications and additions by David Osumi-Sutherland, Chris Mungall, Ramona Walls and Melissa Haendal.</rdfs:comment></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns='http://purl.obolibrary.org/obo/caro/caro.owl#' xml:base='http://purl.obolibrary.org/obo/caro/caro.owl' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:xml='http://www.w3.org/XML/1998/namespace' xmlns:xsd='http://www.w3.org/2001/XMLSchema#'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/caro/caro.owl'>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/caro/2.0/beta/caro.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/ro/core.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/ro_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/pco_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/pato_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/go_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/chebi_import.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/imports/bfo_classes_only.owl'/>
+<owl:imports rdf:resource='http://purl.obolibrary.org/obo/caro/caro_bridge.owl'/>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Based on CARO 1.0, with modifications and additions by David Osumi-Sutherland, Chris Mungall, Ramona Walls and Melissa Haendal.
+</rdfs:comment>
+</owl:Ontology>
+</rdf:RDF>

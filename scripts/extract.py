@@ -5,14 +5,17 @@ import pprint as pp
 import yaml
 
 # vars
-md_tsv_path = "../obo_metadata.tsv"
-xml_tsv_path = "../ont_metadata.tsv"
+md_tsv_path = "obo_metadata.tsv"
+xml_tsv_path = "ont_metadata.tsv"
 fname = "obo_foundry.txt"
 
 # functs
 def toTSV (field):
 	tab = "\t"
 	if field:
+		field = field.replace('&lt;', '<')
+		field = field.replace('&gt;', '>')
+		field = field.replace('&amp;', '&')
 		return field.replace('\n', ' ') + tab
 	else:
 		return tab
@@ -33,7 +36,7 @@ xml_details = []
 
 for ont in ontologies:
 	# Get the OBO metadata
-	md_name = "../metadata/md/" + ont + ".md"
+	md_name = "metadata/md/" + ont + ".md"
 	if os.path.isfile(md_name):	
 		with open(md_name) as m:
 			# Extract YAML
@@ -69,7 +72,7 @@ for ont in ontologies:
 		md_details.append(md_extract)
 
 	# Get the owl:Ontology metadata
-	xml_name = "../metadata/xml/" + ont + "-element.owl"
+	xml_name = "metadata/xml/" + ont + "-element.owl"
 	if os.path.isfile(xml_name):
 		p = etree.XMLParser(recover=True)
 		xml = etree.parse(xml_name, parser=p)

@@ -1,1 +1,50 @@
-<rdf:RDF xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/ncro/ncro.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/ncro/ncro.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/ncro.owl'><dc:date rdf:datatype='http://www.w3.org/2001/XMLSchema#date'>2015-12-10</dc:date><dc:contributor>He Zhang</dc:contributor><dc:contributor>Alan Ruttenberg</dc:contributor><dc:contributor xml:lang='en'>Alan Ruttenberg</dc:contributor><dc:contributor>Harrison Strachan</dc:contributor><dc:contributor>Jingshan Huang</dc:contributor><dc:contributor>Asiyah Yu Lin</dc:contributor><rdfs:comment xml:lang='en'>This is the release of December 12, 2015. It will always be available at http://purl.obolibrary.org/ncro/2015-12-10/ncro.owl. While current, this ontology is also available at http://purl.obolibrary.org/obo/ncro.owl	This file is a merge of NCRO and any imported ontologies or terms. You can access the ontology that existed before the merge, with imports intact, at http://purl.obolibrary.org/obo/ncro/YYYY-MM-DD/ncro.owl or, for the current version, http://purl.obolibrary.org/obo/ncro/prebuild/ncro.owl</rdfs:comment><rdfs:comment xml:lang='en'>This ontology is currently undergoing changes. ID deprecation policies will start in the next couple of months. In the mean time, identifiers may be deleted and not marked obsolete.</rdfs:comment><rdfs:comment xml:lang='en'>d</rdfs:comment><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/bfo.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/chebi.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/clo.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/doid.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/go.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/iao.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/obi.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/pr.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/ro.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/so.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/uberon.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/iao/ontology-metadata.owl'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/ncro/issues'/><rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/ncro/repository'/><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl'/><rdfs:seeAlso rdf:resource='http://www.ontobee.org/ontology/NCRO'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/ncro/ncro.owl#' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xml:base='http://purl.obolibrary.org/obo/ncro/ncro.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/ncro.owl'>
+<dc:date rdf:datatype='http://www.w3.org/2001/XMLSchema#date'>
+2015-12-10
+</dc:date>
+<dc:contributor>
+He Zhang
+</dc:contributor>
+<dc:contributor>
+Alan Ruttenberg
+</dc:contributor>
+<dc:contributor xml:lang='en'>
+Alan Ruttenberg
+</dc:contributor>
+<dc:contributor>
+Harrison Strachan
+</dc:contributor>
+<dc:contributor>
+Jingshan Huang
+</dc:contributor>
+<dc:contributor>
+Asiyah Yu Lin
+</dc:contributor>
+<rdfs:comment xml:lang='en'>
+This is the release of December 12, 2015. It will always be available at http://purl.obolibrary.org/ncro/2015-12-10/ncro.owl. While current, this ontology is also available at http://purl.obolibrary.org/obo/ncro.owl 	This file is a merge of NCRO and any imported ontologies or terms. You can access the ontology that existed before the merge, with imports intact, at http://purl.obolibrary.org/obo/ncro/YYYY-MM-DD/ncro.owl or, for the current version, http://purl.obolibrary.org/obo/ncro/prebuild/ncro.owl
+</rdfs:comment>
+<rdfs:comment xml:lang='en'>
+This ontology is currently undergoing changes. ID deprecation policies will start in the next couple of months. In the mean time, identifiers may be deleted and not marked obsolete.
+</rdfs:comment>
+<rdfs:comment xml:lang='en'>
+d
+</rdfs:comment>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/bfo.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/chebi.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/clo.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/doid.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/go.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/iao.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/obi.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/pr.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/ro.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/so.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/uberon.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/iao/ontology-metadata.owl'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/ncro/issues'/>
+<rdfs:seeAlso rdf:resource='http://purl.obolibrary.org/obo/ncro/repository'/>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/ncro/2015-12-10/ncro-combined.owl'/>
+<rdfs:seeAlso rdf:resource='http://www.ontobee.org/ontology/NCRO'/>
+</owl:Ontology>
+</rdf:RDF>

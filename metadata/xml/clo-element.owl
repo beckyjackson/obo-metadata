@@ -1,1 +1,73 @@
-<rdf:RDF xmlns:refont='http://purl.obolibrary.org/obo/uberon/refont/' xmlns:fma='http://sig.uw.edu/fma#' xmlns:chebi='http://purl.obolibrary.org/obo/chebi/' xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:ro='http://purl.obofoundry.org/obo/ro.owl#' xmlns:cito='http://purl.org/spar/cito/' xmlns:uberon='http://purl.obolibrary.org/obo/uberon#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:core='http://purl.obolibrary.org/obo/core#' xmlns='http://purl.obolibrary.org/obo/clo_merged.owl/' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:disease_ontology='http://purl.org/obo/owlapi/disease_ontology#' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:doap='http://usefulinc.com/ns/doap#' xmlns:Thesaurus='http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:cellline2='http://www.ebi.ac.uk/cellline/' xmlns:cellline='http://www.ebi.ac.uk/cellline#' xml:base='http://purl.obolibrary.org/obo/clo_merged.owl/'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/clo.owl'><dc:creator>Matthew Brush</dc:creator><dc:creator>Uma Vempati</dc:creator><dc:creator xml:lang='en'>Alexander Diehl</dc:creator><dc:creator xml:lang='en'>Asiyah Yu Lin</dc:creator><dc:creator>Jiangan Xie</dc:creator><dc:creator>Stephan Schurer</dc:creator><owl:versionInfo xml:lang='en'>2.1.124</owl:versionInfo><dc:creator>Caty Chung</dc:creator><dc:date>2017-10-22</dc:date><dc:contributor xml:lang='en'>Alex Ade</dc:contributor><dc:creator xml:lang='en'>Allen Xiang</dc:creator><dc:subject xml:lang='en'>An ontology for the domain of cell lines and cell line cells</dc:subject><dc:title xml:lang='en'>CLO: Cell Line Ontology</dc:title><obo:IAO_0000116 xml:lang='en'>Draft version</obo:IAO_0000116><dc:creator xml:lang='en'>Helen Parkinson</dc:creator><dc:creator xml:lang='en'>Hiroshi Masuya</dc:creator><dc:creator xml:lang='en'>James Malone</dc:creator><dc:creator xml:lang='en'>Jie Zheng</dc:creator><dc:format xml:lang='en'>OWL-DL</dc:format><dc:creator xml:lang='en'>Sirarat Sarntivijai</dc:creator><dc:description xml:lang='en'>The Cell Line Ontology.</dc:description><dc:creator xml:lang='en'>Yongqun "Oliver" He (YH)</dc:creator><dc:creator xml:lang='en'>Yue Liu</dc:creator></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:refont='http://purl.obolibrary.org/obo/uberon/refont/' xmlns:fma='http://sig.uw.edu/fma#' xmlns:chebi='http://purl.obolibrary.org/obo/chebi/' xmlns:efo='http://www.ebi.ac.uk/efo/' xmlns:ro='http://purl.obofoundry.org/obo/ro.owl#' xmlns:cito='http://purl.org/spar/cito/' xmlns:uberon='http://purl.obolibrary.org/obo/uberon#' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns:core='http://purl.obolibrary.org/obo/core#' xmlns='http://purl.obolibrary.org/obo/clo_merged.owl/' xmlns:protege='http://protege.stanford.edu/plugins/owl/protege#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:disease_ontology='http://purl.org/obo/owlapi/disease_ontology#' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:doap='http://usefulinc.com/ns/doap#' xmlns:Thesaurus='http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:subsets='http://purl.obolibrary.org/obo/ro/subsets#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:cellline2='http://www.ebi.ac.uk/cellline/' xmlns:cellline='http://www.ebi.ac.uk/cellline#' xml:base='http://purl.obolibrary.org/obo/clo_merged.owl/'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/clo.owl'>
+<dc:creator>
+Matthew Brush
+</dc:creator>
+<dc:creator>
+Uma Vempati
+</dc:creator>
+<dc:creator xml:lang='en'>
+Alexander Diehl
+</dc:creator>
+<dc:creator xml:lang='en'>
+Asiyah Yu Lin
+</dc:creator>
+<dc:creator>
+Jiangan Xie
+</dc:creator>
+<dc:creator>
+Stephan Schurer
+</dc:creator>
+<owl:versionInfo xml:lang='en'>
+2.1.124
+</owl:versionInfo>
+<dc:creator>
+Caty Chung
+</dc:creator>
+<dc:date>
+2017-10-22
+</dc:date>
+<dc:contributor xml:lang='en'>
+Alex Ade
+</dc:contributor>
+<dc:creator xml:lang='en'>
+Allen Xiang
+</dc:creator>
+<dc:subject xml:lang='en'>
+An ontology for the domain of cell lines and cell line cells
+</dc:subject>
+<dc:title xml:lang='en'>
+CLO: Cell Line Ontology
+</dc:title>
+<obo:IAO_0000116 xml:lang='en'>
+Draft version
+</obo:IAO_0000116>
+<dc:creator xml:lang='en'>
+Helen Parkinson
+</dc:creator>
+<dc:creator xml:lang='en'>
+Hiroshi Masuya
+</dc:creator>
+<dc:creator xml:lang='en'>
+James Malone
+</dc:creator>
+<dc:creator xml:lang='en'>
+Jie Zheng
+</dc:creator>
+<dc:format xml:lang='en'>
+OWL-DL
+</dc:format>
+<dc:creator xml:lang='en'>
+Sirarat Sarntivijai
+</dc:creator>
+<dc:description xml:lang='en'>
+The Cell Line Ontology.
+</dc:description>
+<dc:creator xml:lang='en'>
+Yongqun "Oliver" He (YH)
+</dc:creator>
+<dc:creator xml:lang='en'>
+Yue Liu
+</dc:creator>
+</owl:Ontology>
+</rdf:RDF>

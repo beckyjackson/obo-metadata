@@ -1,1 +1,68 @@
-<rdf:RDF xmlns:entity_attribute='http://purl.obolibrary.org/obo/envo-p/patterns/entity_attribute/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/envo.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:entity_attribute2='http://purl.obolibrary.org/obo/oba/patterns/entity_attribute/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:entity_quality='http://purl.obolibrary.org/obo/oba/patterns/entity_quality/' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:process_attribute='http://purl.obolibrary.org/obo/envo-p/patterns/process_attribute/' xmlns:foo='http://geneontology.org/foo/' xmlns:envo='http://purl.obolibrary.org/obo/envo#' xml:base='http://purl.obolibrary.org/obo/envo.owl'><owl:Ontology rdf:about='http://purl.obolibrary.org/obo/envo.owl'><oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>ENVO</oboInOwl:default-namespace><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>ENVO is an ontology which represents knowledge about environments,environmental processes, ecosystems, habitats, and related entities. It interoperates with other ontologies in the OBO Foundry and Library. New terms or revisions can be requested at https://github.com/EnvironmentOntology/envo/issues/ Please see www.environmentontology.org for more information and citations.</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/bfo_import.owl>))) [Axioms: 92 Logical Axioms: 35]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/chebi_import.owl>))) [Axioms: 2434 Logical Axioms: 1036]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/clo_import.owl>))) [Axioms: 34 Logical Axioms: 8]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/fao_import.owl>))) [Axioms: 4 Logical Axioms: 0]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/flopo_import.owl>))) [Axioms: 1536 Logical Axioms: 352]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/foodon_import.owl>))) [Axioms: 63 Logical Axioms: 7]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/go_import.owl>))) [Axioms: 270 Logical Axioms: 76]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/ncbitaxon_import.owl>))) [Axioms: 542 Logical Axioms: 123]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/obi_import.owl>))) [Axioms: 50 Logical Axioms: 12]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/omp_import.owl>))) [Axioms: 47 Logical Axioms: 11]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/pato_import.owl>))) [Axioms: 1362 Logical Axioms: 337]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/pco_import.owl>))) [Axioms: 21 Logical Axioms: 3]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/po_import.owl>))) [Axioms: 151 Logical Axioms: 18]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/ro_import.owl>))) [Axioms: 1192 Logical Axioms: 302]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/imports/uberon_import.owl>))) [Axioms: 24081 Logical Axioms: 4670]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/modules/entity_attribute.owl>))) [Axioms: 79 Logical Axioms: 12]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/modules/entity_attribute_location.owl>))) [Axioms: 131 Logical Axioms: 22]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/modules/entity_quality_location.owl>))) [Axioms: 45 Logical Axioms: 6]</rdfs:comment><rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/envo/modules/process_attribute.owl>))) [Axioms: 21 Logical Axioms: 2]</rdfs:comment><owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/envo/releases/2017-08-22/envo.owl'/></owl:Ontology></rdf:RDF>
+<rdf:RDF xmlns:entity_attribute='http://purl.obolibrary.org/obo/envo-p/patterns/entity_attribute/' xmlns:obo='http://purl.obolibrary.org/obo/' xmlns='http://purl.obolibrary.org/obo/envo.owl#' xmlns:oboInOwl='http://www.geneontology.org/formats/oboInOwl#' xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:foaf='http://xmlns.com/foaf/0.1/' xmlns:entity_attribute2='http://purl.obolibrary.org/obo/oba/patterns/entity_attribute/' xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#' xmlns:entity_quality='http://purl.obolibrary.org/obo/oba/patterns/entity_quality/' xmlns:owl='http://www.w3.org/2002/07/owl#' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:xsd='http://www.w3.org/2001/XMLSchema#' xmlns:process_attribute='http://purl.obolibrary.org/obo/envo-p/patterns/process_attribute/' xmlns:foo='http://geneontology.org/foo/' xmlns:envo='http://purl.obolibrary.org/obo/envo#' xml:base='http://purl.obolibrary.org/obo/envo.owl'>
+<owl:Ontology rdf:about='http://purl.obolibrary.org/obo/envo.owl'>
+<oboInOwl:default-namespace rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+ENVO
+</oboInOwl:default-namespace>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+ENVO is an ontology which represents knowledge about environments,environmental processes, ecosystems, habitats, and related entities. It interoperates with other ontologies in the OBO Foundry and Library.   New terms or revisions can be requested at https://github.com/EnvironmentOntology/envo/issues/    Please see www.environmentontology.org for more information and citations.
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/bfo_import.owl&gt;))) [Axioms: 92 Logical Axioms: 35]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/chebi_import.owl&gt;))) [Axioms: 2434 Logical Axioms: 1036]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/clo_import.owl&gt;))) [Axioms: 34 Logical Axioms: 8]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/fao_import.owl&gt;))) [Axioms: 4 Logical Axioms: 0]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/flopo_import.owl&gt;))) [Axioms: 1536 Logical Axioms: 352]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/foodon_import.owl&gt;))) [Axioms: 63 Logical Axioms: 7]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/go_import.owl&gt;))) [Axioms: 270 Logical Axioms: 76]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/ncbitaxon_import.owl&gt;))) [Axioms: 542 Logical Axioms: 123]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/obi_import.owl&gt;))) [Axioms: 50 Logical Axioms: 12]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/omp_import.owl&gt;))) [Axioms: 47 Logical Axioms: 11]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/pato_import.owl&gt;))) [Axioms: 1362 Logical Axioms: 337]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/pco_import.owl&gt;))) [Axioms: 21 Logical Axioms: 3]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/po_import.owl&gt;))) [Axioms: 151 Logical Axioms: 18]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/ro_import.owl&gt;))) [Axioms: 1192 Logical Axioms: 302]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/imports/uberon_import.owl&gt;))) [Axioms: 24081 Logical Axioms: 4670]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/modules/entity_attribute.owl&gt;))) [Axioms: 79 Logical Axioms: 12]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/modules/entity_attribute_location.owl&gt;))) [Axioms: 131 Logical Axioms: 22]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/modules/entity_quality_location.owl&gt;))) [Axioms: 45 Logical Axioms: 6]
+</rdfs:comment>
+<rdfs:comment rdf:datatype='http://www.w3.org/2001/XMLSchema#string'>
+Includes Ontology(OntologyID(OntologyIRI(&lt;http://purl.obolibrary.org/obo/envo/modules/process_attribute.owl&gt;))) [Axioms: 21 Logical Axioms: 2]
+</rdfs:comment>
+<owl:versionIRI rdf:resource='http://purl.obolibrary.org/obo/envo/releases/2017-08-22/envo.owl'/>
+</owl:Ontology>
+</rdf:RDF>
